@@ -1,0 +1,12 @@
+version: '3'
+services:
+  dfu-cn:
+    image: "node" 
+    working_dir: /app
+    volumes:
+      - .:/app
+      - node_modules:/app/node_modules
+      - ./text:/app/origin_text
+      - ./cn:/app/cn
+volumes:
+  node_modules:

@@ -1,0 +1,26 @@
+{
+  "name": "dfu-cn",
+  "version": "0.1.0",
+  "description": "translate daggerfall unity to chinese",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengdh/dfu-translation-cn.git"
+  },
+  "keywords": [
+    "daggerfall",
+    "unity",
+    "cn",
+    "translate"
+  ],
+  "author": "cheng.donghui@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengdh/dfu-translation-cn/issues"
+  },
+  "homepage": "https://github.com/chengdh/dfu-translation-cn#readme"
+}
