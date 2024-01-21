@@ -3,6 +3,7 @@ import axios from "axios"
 import * as fs from 'fs'
 import * as path from 'path'
 import * as csv from 'fast-csv'
+import { translate as gtranslate } from '@vitalets/google-translate-api';
 import { writeToPath } from '@fast-csv/format'
 import { YOUDAO_API_BASE_URL, YOUDAO_APP_ID, YOUDAO_APP_SECRET, YOUDAO_VOCABID } from "./config.js"
 
@@ -12,7 +13,7 @@ const translate_csv = () => {
     fs.readdir(csv_path, async function (err, files) {
         for (const f of files) {
             if (f.endsWith(".csv")) {
-            // if (f === "Example_MageLight.csv") {
+            // if (f === "Internal_RSC.csv") {
                 const translated_arry = [["Key", "Value"]]
                 const file = `${csv_path}/${f}`
                 let total_row_count = 0
@@ -25,7 +26,12 @@ const translate_csv = () => {
                         console.log("row:", row)
                         const tv = await translate_row(row)
                         if (tv) {
+                            //加上原文
+                            tv.push(row['Value'])
                             translated_arry.push(tv)
+                        }
+                        else {
+                            translated_arry.push([row['Key'], row['Value'], ""])
                         }
                         translated_row_count++
                         if (translated_row_count > 0 && total_row_count > 0 && translated_row_count == total_row_count) {
@@ -51,16 +57,17 @@ const translate_row = async row => {
     const key = row["Key"]
     const value = row["Value"]
     const from = "en"
-    const to = "zh-CHS"
+    const to = "zh-CN"
     if (!value) {
         return Promise.resolve(null)
     }
 
-    const translate_val = await translate(value, from, to)
+    const { text: translate_val } = await gtranslate(value, { from, to })
     if (translate_val) {
         return Promise.resolve([key, translate_val])
     }
 }
+
 const translate = async (q, from, to) => {
     const truncate = (q) => {
         const len = q.length;
@@ -103,10 +110,12 @@ const translate = async (q, from, to) => {
     return resp.translation[0]
 }
 // const text = "Duration: %bdr + %adr per %cld level(s)"
-// const text = "Store is closed. Open from %d1:00 to %d2:00."
+const q= "Store is closed. Open from %d1:00 to %d2:00."
 // const text ="nteractionIsNowInMode, Interaction is now in %s mode."
 // const text = "Duration: %s seconds,%d number"
-const from = "en"
-const to = "zh-CHS"
+let from = "en"
+const to = "zh-CN"
+// const {text}= await gtranslate(q, { from, to });
+// console.log(text) // => 'Hello World! How are you?'
 // translate(text, from, to)
 translate_csv()

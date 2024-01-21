@@ -24,8 +24,10 @@
   },
   "homepage": "https://github.com/chengdh/dfu-translation-cn#readme",
   "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.0",
     "axios": "^1.6.5",
     "crypto-js": "^4.2.0",
-    "fast-csv": "^5.0.0"
+    "fast-csv": "^5.0.0",
+    "google-translate-api": "^2.3.0"
   }
 }
