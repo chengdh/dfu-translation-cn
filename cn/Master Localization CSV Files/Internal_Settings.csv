@@ -1,51 +1,75 @@
-Key,Value
-bowDrawback,弓-拉开和释放
-weaponSwingModes,"香草
-点击
-持有"
-interactionModeIconModes,"没有一个
-最小的
-大
-经典
-颜色
-单色
-经典十字
-颜色的十字"
-mouseLookSensitivity,鼠标外观敏感性
-cameraRecoilStrengths,"从
-低(25%)
-中等(50%)
-高(75%)
-诉高(100%)"
-continueUpper,继续
-movementAcceleration,运动加速度
-mouseWeaponAttackThreshold,鼠标武器攻击阈值
-ToggleConsole,控制台
-AutoRun,自动运行
-qualitySettings,"最快
-快
-简单的
-好
-美丽的
-神奇的"
-filterModes,"点
-双线性
-包含三条线的"
-dungeonTextureModes,"经典
-气候
-气候只
-随机
-随机只"
-unsupported,不支持的
-PrintScreen,截图
-QuickLoad,QuickLoad
-enabled,启用
-disabled,禁用
-iconsPositioningSchemes,"经典
-媒介
-小
-左小甲板
-小甲板右
-小Vert Left
-小垂直右
-小格子底"
+Key,Value,T
+weaponSwingModes,"Vanilla
+Click
+Hold",香草
+mouseLookSmoothingStrengths,"None
+Lowest
+Low
+Medium
+High
+Highest",点击
+configureAdvancedControls,Configure Advanced Controls,抓住
+continueUpper,CONTINUE,没有任何
+mouseLookSmoothing,Mouse Look Smoothing,最低
+mouseLookSensitivity,Mouse Look Sensitivity,低的
+invertLookY,Invert Look-Y,中等的
+movementAcceleration,Movement Acceleration,高的
+weaponSwingMode,Weapon Swing Mode,最高
+bowDrawback,Bows - draw and release,配置高级控制
+toggleSneak,Toggle Sneak,继续
+mouseWeaponAttackThreshold,Mouse Weapon Attack Threshold,鼠标外观平滑
+Escape,Escape,鼠标注视灵敏度
+AutoRun,AutoRun,反转Y型
+ToggleConsole,Console,运动加速度
+PrintScreen,Screenshot,武器挥动模式
+QuickSave,QuickSave,弓——拉弓和释放
+QuickLoad,QuickLoad,切换潜行
+close,Close,鼠标武器攻击阈值
+dungeonTextureModes,"Classic
+Climate
+Climate Only
+Random
+Random Only",逃脱
+cameraRecoilStrengths,"Off
+Low (25%)
+Medium (50%)
+High (75%)
+V. High(100%)",自动运行
+interactionModeIconModes,"None
+Minimal
+Large
+Classic
+Colour
+Monochrome
+Classic Crosshair
+Colour Crosshair",安慰
+iconsPositioningSchemes,"Classic
+Medium
+Small
+Small Deck Left
+Small Deck Right
+Small Vert Left
+Small Vert Right
+Small Horz Bottom",截屏
+helmAndShieldMaterialDisplay,"Off
+No Leather Chain
+No Leather
+On",快速保存
+qualitySettings,"Fastest
+Fast
+Simple
+Good
+Beautiful
+Fantastic",快速加载
+filterModes,"Point
+Bilinear
+Trilinear",关闭
+shadowResolutionModes,"Low
+Medium
+High
+Very High",经典的
+textureArrayLabel,Texture Arrays: ,气候
+unsupported,Unsupported,仅气候
+enabled,Enabled,随机的
+disabled,Disabled,仅随机
+textureArrayInfo,"Improved implementation of terrain textures, with better performance and modding support",离开

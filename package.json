@@ -28,6 +28,7 @@
     "axios": "^1.6.5",
     "crypto-js": "^4.2.0",
     "fast-csv": "^5.0.0",
-    "google-translate-api": "^2.3.0"
+    "google-translate-api": "^2.3.0",
+    "http-proxy-agent": "^7.0.0"
   }
 }

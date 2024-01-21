@@ -4,6 +4,7 @@ import * as fs from 'fs'
 import * as path from 'path'
 import * as csv from 'fast-csv'
 import { translate as gtranslate } from '@vitalets/google-translate-api';
+import { HttpProxyAgent } from 'http-proxy-agent';
 import { writeToPath } from '@fast-csv/format'
 import { YOUDAO_API_BASE_URL, YOUDAO_APP_ID, YOUDAO_APP_SECRET, YOUDAO_VOCABID } from "./config.js"
 
@@ -11,41 +12,32 @@ const translate_csv = () => {
     const csv_path = path.resolve('./text', "Master Localization CSV Files")
     const translated_csv_path = path.resolve('./cn', "Master Localization CSV Files")
     fs.readdir(csv_path, async function (err, files) {
+        let requests_count = 0
         for (const f of files) {
-            if (f.endsWith(".csv")) {
-            // if (f === "Internal_RSC.csv") {
-                const translated_arry = [["Key", "Value"]]
+            // if (f.endsWith(".csv")) {
+            // if (f === "Internal_Items.csv") {
+            // if (f === "Internal_MagicItems.csv") {
+            //     if (f === "Internal_RSC.csv") {
+            //     if (f === "Internal_Factions.csv") {
+                if (f === "Internal_Locations.csv") {
                 const file = `${csv_path}/${f}`
                 let total_row_count = 0
-                let translated_row_count = 0
+                let rows = []
 
                 fs.createReadStream(file)
                     .pipe(csv.parse({ headers: true }))
                     .on('error', error => console.error(error))
-                    .on('data', async (row) => {
-                        console.log("row:", row)
-                        const tv = await translate_row(row)
-                        if (tv) {
-                            //加上原文
-                            tv.push(row['Value'])
-                            translated_arry.push(tv)
-                        }
-                        else {
-                            translated_arry.push([row['Key'], row['Value'], ""])
-                        }
-                        translated_row_count++
-                        if (translated_row_count > 0 && total_row_count > 0 && translated_row_count == total_row_count) {
-                            console.log("translated_row_count: ", translated_row_count)
-                            console.log("total_row_count : ", translated_row_count)
-                            console.log("translated_arry:", translated_arry)
-                            writeToPath(`${translated_csv_path}/${f}`, translated_arry)
-                                .on('error', err => console.error(err))
-                                .on('finish', () => console.log('Done writing.'));
-                        }
+                    .on('data', (row) => {
+                        rows.push(row)
                     })
-                    .on('end', (rowCount) => {
+                    .on('end', async (rowCount) => {
                         total_row_count = rowCount
                         console.log(`Parsed ${rowCount} rows`)
+                        const translated_rows= await batch_translate(rows)
+                        writeToPath(`${translated_csv_path}/${f}`, translated_rows)
+                            .on('error', err => console.error(err))
+                            .on('finish', () => console.log('Done writing.'));
+
                     });
             }
         }
@@ -62,10 +54,54 @@ const translate_row = async row => {
         return Promise.resolve(null)
     }
 
-    const { text: translate_val } = await gtranslate(value, { from, to })
+    //const { text: translate_val } = await gtranslate(value, { from, to })
+    const { text: translate_val } = await translateWithProxy(value, from, to)
+
     if (translate_val) {
         return Promise.resolve([key, translate_val])
     }
+}
+
+//批量翻译
+const batch_translate = async (rows) => {
+    //组合
+    const from = "en"
+    const to = "zh-CN"
+    const q = rows.map(r => r['Value']).join("\n")
+    console.log("batch translate:", q)
+    const translated = await translateWithProxy(q, from, to)
+    const translated_rows = translated.split("\n")
+    //生成新的数组
+    let ret = [["Key", "Value","T"]]
+    for (const [index, v] of rows.entries()) {
+        const new_row = ([v['Key'], v['Value'], translated_rows[index]])
+        ret.push(new_row)
+    }
+    // const translated = await  gtranslate(q,from,to)
+    console.log("translated new rows:",ret)
+    return ret 
+
+}
+async function translateWithProxy(q, from, to) {
+    const timeoutMs = 5000 * 20;
+    const proxy = "115.244.127.167"
+    const ac = new AbortController();
+    const timer = setTimeout(() => ac.abort(), timeoutMs);
+    const fetchOptions = {
+        agent: new HttpProxyAgent(`http://${proxy}`),
+        signal: ac.signal,
+    }
+    let ret = null
+    try {
+
+        console.log(`start gtranslate: ${q}`);
+        const { text } = await gtranslate(q, { from, to, fetchOptions });
+        console.log(`Result: ${text}`);
+        ret = text
+    } finally {
+        clearTimeout(timer);
+    }
+    return ret
 }
 
 const translate = async (q, from, to) => {
@@ -110,12 +146,12 @@ const translate = async (q, from, to) => {
     return resp.translation[0]
 }
 // const text = "Duration: %bdr + %adr per %cld level(s)"
-const q= "Store is closed. Open from %d1:00 to %d2:00."
+const q = "Store is closed. Open from %d1:00 to %d2:00."
 // const text ="nteractionIsNowInMode, Interaction is now in %s mode."
 // const text = "Duration: %s seconds,%d number"
 let from = "en"
 const to = "zh-CN"
-// const {text}= await gtranslate(q, { from, to });
+// const {text}= await translateWithProxy(q, from, to) 
 // console.log(text) // => 'Hello World! How are you?'
 // translate(text, from, to)
 translate_csv()

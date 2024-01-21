@@ -1,45 +1,60 @@
-Key,Value
-4,克拉维斯的假面
-66,Mehrunes剃刀
-190,Hircine Ring
-314,Oghma英
-376,的Wabbajack
-624,沉默的%it
-562,蔚蓝之星
-748,野火的%it
-872,闪耀%it
-934,密封门的%it
-1058,毒液解毒剂的%it
-1244,跳跃%it
-1306,%it的水上行走
-1368,魔法的%it
-1430,永不疲倦%it
-1554,%it，守护者
-1678,诅咒%it
-1740,%it的遥远的沉默
-1802,%it的毒液喷射
-1926,霜冻%it的冰暴
-1988,闪电的%it
-2112,治疗%it
-2174,半兽人领主的%it
-2236,不受约束的%it
-2360,敏捷性的%it
-2422,Torgo是%it
-2484,%it的坚韧
-2608,%it代表好运
-2546,友谊的%it
-2670,遗忘的%it
-2794,麻痹的%it
-2856,Volendrung
-2918,术士之戒
-2980,奥列尔弓
-3042,死灵法师的护身符
-3104,Chrysamere
-3166,主锁
-3228,马格努斯权杖
-3290,卡吉特之戒
-3352,乌木的邮件
-3414,奥瑞尔之盾
-3538,万能钥匙
-3600,乌木刃
-3476,破法者
+Key,Value,T
+4,The Masque of Clavicus,克拉维库斯的假面
+66,The Mehrunes Razor,梅鲁内斯剃刀
+128,The Mace of Molag Bal,莫拉格·巴尔之锤
+190,The Hircine Ring,海辛戒指
+252,The Sanguine Rose,血红玫瑰
+314,Oghma Infinium,欧格玛无限
+376,The Wabbajack,瓦巴杰克
+438,The Ring of Namira,纳米拉之戒
+500,The Skull of Corruption,腐败的头骨
+562,Azura's Star,阿祖拉之星
+624,Silent %it,沉默%it
+686,%it of the Wise,%它是智者的
+748,%it of Wildfire,%it 野火
+810,%it of Force Bolts,%it 的强力螺栓
+872,Shining %it,闪亮%it
+934,%it of the Sealed Door,密封门的%it
+996,%it of Undeniable Access,%it 不可拒绝的访问
+1058,%it of Venom Antidote,%it 毒液解毒剂
+1120,%it of Life Stealing,生命偷取%it
+1182,%it of Wizard's Fire,%it 巫师之火
+1244,Leaping %it,跳跃%it
+1306,%it of Water-walking,水上行走%it
+1368,%it of Magicka,Magicka的%it
+1430,Never Tiring %it,永不疲倦%it
+1492,%it of Featherweight,羽量级%it
+1554,"%it, the Protector",%it，保护者
+1616,%it of Shocking,%it 令人震惊
+1678,Cursing %it,咒骂%it
+1740,%it of Far Silence,%it 遥远的寂静
+1802,%it of Venom Spitting,%it 吐出毒液
+1864,Blazing %it of Fireballs,炽热的火球%it
+1926,Frosty %it of Ice Storms,冰风暴的霜冻 %it
+1988,%it of Lightning,%it 闪电
+2050,Deadman's %it,死人%it
+2112,Healing %it,治愈%it
+2174,%it of the Orc Lord,兽人领主的%it
+2236,Unrestrainable %it,无法克制%it
+2298,%it of Iron Will,钢铁意志的%it
+2360,%it of Nimbleness,%it 敏捷性
+2422,Torgo's %it,托戈的%it
+2484,%it of Fortitude,坚韧%it
+2546,%it of Friendship,%it 友谊
+2608,%it of Good Luck,%it 祝你好运
+2670,%it of Oblivion,%it 的遗忘
+2732,%it of Toxic Clouds,%it 有毒云
+2794,%it of Paralysis,麻痹%it
+2856,Volendrung,福伦德隆
+2918,Warlock's Ring,术士之戒
+2980,Auriel's Bow,奥莉尔之弓
+3042,Necromancer's Amulet,死灵法师的护身符
+3104,Chrysamere,菊花
+3166,Lord's Mail,主的邮件
+3228,Staff of Magnus,马格努斯法杖
+3290,Ring of Khajiit,虎人之戒
+3352,Ebony Mail,乌木邮件
+3414,Auriel's Shield,奥莉尔之盾
+3476,Spell Breaker,破咒者
+3538,Skeleton's Key,骷髅钥匙
+3600,Ebony Blade,乌木刀片

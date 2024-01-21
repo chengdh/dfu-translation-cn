@@ -1,13 +1,13 @@
-Key,Value
-durationSpellBook,持续时间:每%cld水平%bdr + %adr (的)
-subGroupNames,"地狱
-霜
-毒液
-风暴
-晦涩难懂的"
-effectDescription,在施法者周围创造柔和的光线。
-groupName,法师的光
-chance,机会:N / A
-magnitude,级:N / A
-about,这个CSV提供了示例自定义拼写MageLight的文本记录。
-durationSpellMaker,持续时间:回合你将被照亮。
+Key,Value,T
+about,This CSV provides text records for the example custom spell MageLight.,此 CSV 提供示例自定义法术 MageLight 的文本记录。
+groupName,Mage Light,法师之光
+subGroupNames,"Inferno
+Rime
+Venom
+Storm
+Arcane",地狱
+effectDescription,Creates a soft light around caster.,雾凇
+durationSpellMaker,Duration: Rounds you will be illuminated.,毒液
+durationSpellBook,Duration: %bdr + %adr per %cld level(s),风暴
+chance,Chance: N/A,奥术
+magnitude,Magnitude: N/A,在脚轮周围产生柔和的光线。

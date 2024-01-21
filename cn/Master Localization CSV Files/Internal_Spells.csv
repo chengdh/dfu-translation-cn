@@ -1,65 +1,89 @@
-Key,Value
-1,芬里克的门卡
-4,漂浮
-15,治疗毒
-27,法术消耗
-12,抗火
-26,抗毒
-14,火球
-17,盾
-33,野火
-7,巫师之火
-19,向导锁
-22,魔法护盾
-8,冲击
-25,火风暴
-44,变色龙
-29,毒云
-45,影子形式
-31,闪电
-24,巨魔之血
-34,向导撕裂
-49,舌头
-38,跳
-39,法术抗力
-57,消除卓
-41,水上步行
-47,法术吸收
-50,麻痹
-61,治疗疾病
-66,蜘蛛触摸
-67,能源水蛭
-53,睡眠之手
-51,睡眠
-75,Somnalius
-54,巫师水蛭
-55,否定的领域
-76,代价酸
-59,空法师
-83,智慧
-64,治愈
-86,诺托戈之脚
-89,万事通
-72,砷
-73,Moonseed
-98,安静的亡灵
-74,Drothweed
-56,腐朽之手
-92,狼人
-79,Indulcet
-78,Thyrwort
-97,巴丽娜香膏
-60,巴利纳解药
-81,Quaesto维尔
-99,驯服
-82,兽人的力量
-80,Sursum
-84,钢铁般的意志
-87,毅力
-91,平静的人形
-88,魅力
-94,回忆
-85,敏捷
-90,魅力的
-36,力螺栓
-71,马钱子
+Key,Value,T
+1,Fenrik's Door Jam,芬里克的门堵塞
+2,Buoyancy,浮力
+3,Frostbite,冻疮
+4,Levitate,悬浮
+5,Light,光
+6,Invisibility,隐形
+7,Wizard's Fire,巫师之火
+8,Shock,震惊
+9,Strength Leech,力量水蛭
+10,Free Action,自由行动
+11,Resist Cold,抵御寒冷
+12,Resist Fire,抵抗火力
+13,Resist Shock,抗冲击
+14,Fireball,火球术
+15,Cure Poison,解毒
+16,Ice Bolt,冰箭
+17,Shield,盾
+18,Open,打开
+19,Wizard Lock,向导锁
+20,Ice Storm,冰暴
+22,Spell Shield,法术护盾
+23,Silence,安静
+24,Troll's Blood,巨魔之血
+25,Fire Storm,火焰风暴
+26,Resist Poison,抗毒
+27,Spell Drain,法术吸取
+28,Far Silence,遥远的寂静
+29,Toxic Cloud,毒云
+30,Shalidor's Mirror,沙利多的镜子
+31,Lightning,闪电
+32,Gods' Fire,众神之火
+33,Wildfire,野火
+34,Wizard Rend,巫师撕裂
+35,Medusa's Gaze,美杜莎的凝视
+36,Force Bolt,强力螺栓
+37,Slowfalling,缓落
+38,Jumping,跳跃
+39,Spell Resistance,法术抗力
+40,Stamina,耐力
+41,Water Walking,水上行走
+42,Water Breathing,水呼吸
+44,Chameleon,变色龙
+45,Shadow Form,暗影形态
+46,Spell Reflection,法术反射
+47,Spell Absorption,法术吸收
+49,Tongues,舌头
+50,Paralysis,麻痹
+51,Sleep,睡觉
+52,Vampiric Touch,吸血鬼之触
+53,Hand of Sleep,睡眠之手
+54,Magicka Leech,魔法水蛭
+55,Sphere of Negation,否定领域
+56,Hand of Decay,腐烂之手
+57,Banish Daedra,放逐魔族
+58,Holy Word,圣言
+59,Null Magicka,无效魔法
+60,Balyna's Antidote,巴利纳的解药
+61,Cure Disease,治愈疾病
+62,Soul Trap,灵魂陷阱
+64,Heal,愈合
+66,Spider Touch,蜘蛛之触
+67,Energy Leech,能量吸取
+71,Nux Vomica,马钱子
+72,Arsenic,砷
+73,Moonseed,月籽
+74,Drothweed,德罗斯草
+75,Somnalius,索姆纳柳斯
+76,Pyrrhic Acid,吡咯酸
+77,Magebane,马格巴纳
+78,Thyrwort,百里香
+79,Indulcet,诱发
+80,Sursum,苏尔苏姆
+81,Quaesto Vil,奎斯托维尔
+82,Orc Strength,兽人力量
+83,Wisdom,智慧
+84,Iron Will,钢铁意志
+85,Nimbleness,敏捷性
+86,Feet of Notorgo,诺托戈的脚
+87,Fortitude,刚毅
+88,Charisma,魅力
+89,Jack of Trades,行业杰克
+90,Charm Mortal,魅力凡人
+91,Calm Humanoid,冷静的人形
+92,Lycanthropy,狼人
+94,Recall,记起
+97,Balyna's Balm,巴利纳香膏
+98,Quiet Undead,安静的亡灵
+99,Tame,驯服
