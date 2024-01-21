@@ -1,40 +1,55 @@
 Key,Value,T
 weaponSwingModes,"Vanilla
 Click
-Hold",香草
+Hold","香草 
+ 点击 
+ 抓住"
 mouseLookSmoothingStrengths,"None
 Lowest
 Low
 Medium
 High
-Highest",点击
-configureAdvancedControls,Configure Advanced Controls,抓住
-continueUpper,CONTINUE,没有任何
-mouseLookSmoothing,Mouse Look Smoothing,最低
-mouseLookSensitivity,Mouse Look Sensitivity,低的
-invertLookY,Invert Look-Y,中等的
-movementAcceleration,Movement Acceleration,高的
-weaponSwingMode,Weapon Swing Mode,最高
-bowDrawback,Bows - draw and release,配置高级控制
-toggleSneak,Toggle Sneak,继续
-mouseWeaponAttackThreshold,Mouse Weapon Attack Threshold,鼠标外观平滑
-Escape,Escape,鼠标注视灵敏度
-AutoRun,AutoRun,反转Y型
-ToggleConsole,Console,运动加速度
-PrintScreen,Screenshot,武器挥动模式
-QuickSave,QuickSave,弓——拉弓和释放
-QuickLoad,QuickLoad,切换潜行
-close,Close,鼠标武器攻击阈值
+Highest","没有任何 
+ 最低 
+ 低的 
+ 中等的 
+ 高的 
+ 最高"
+configureAdvancedControls,Configure Advanced Controls,配置高级控件
+continueUpper,CONTINUE,继续
+mouseLookSmoothing,Mouse Look Smoothing,鼠标看起来平滑
+mouseLookSensitivity,Mouse Look Sensitivity,鼠标看起来敏感
+invertLookY,Invert Look-Y,倒看
+movementAcceleration,Movement Acceleration,运动加速度
+weaponSwingMode,Weapon Swing Mode,武器摆动模式
+bowDrawback,Bows - draw and release,弓 - 画和释放
+toggleSneak,Toggle Sneak,切换偷偷摸摸
+mouseWeaponAttackThreshold,Mouse Weapon Attack Threshold,鼠标武器攻击阈值
+Escape,Escape,逃脱
+AutoRun,AutoRun,汽车
+ToggleConsole,Console,安慰
+PrintScreen,Screenshot,截屏
+QuickSave,QuickSave,快速保存
+QuickLoad,QuickLoad,Quickload
+close,Close,关闭
 dungeonTextureModes,"Classic
 Climate
 Climate Only
 Random
-Random Only",逃脱
+Random Only","经典的 
+ 气候 
+ 仅气候 
+ 随机的 
+ 仅随机"
 cameraRecoilStrengths,"Off
 Low (25%)
 Medium (50%)
 High (75%)
-V. High(100%)",自动运行
+V. High(100%)","离开 
+ 低（25％） 
+ 培养基（50％） 
+ 高（75％） 
+ V.高（100％）"
 interactionModeIconModes,"None
 Minimal
 Large
@@ -42,7 +57,14 @@ Classic
 Colour
 Monochrome
 Classic Crosshair
-Colour Crosshair",安慰
+Colour Crosshair","没有任何 
+ 最小 
+ 大的 
+ 经典的 
+ 颜色 
+ 单色 
+ 经典十字路口 
+ 彩色十字毛"
 iconsPositioningSchemes,"Classic
 Medium
 Small
@@ -50,26 +72,46 @@ Small Deck Left
 Small Deck Right
 Small Vert Left
 Small Vert Right
-Small Horz Bottom",截屏
+Small Horz Bottom","经典的 
+ 中等的 
+ 小的 
+ 小甲板左 
+ 小甲板右 
+ 小vert左 
+ 右边小 
+ 小霍兹底部"
 helmAndShieldMaterialDisplay,"Off
 No Leather Chain
 No Leather
-On",快速保存
+On","离开 
+ 没有皮革链 
+ 没有皮革 
+ 在"
 qualitySettings,"Fastest
 Fast
 Simple
 Good
 Beautiful
-Fantastic",快速加载
+Fantastic","最快的 
+ 快速地 
+ 简单的 
+ 好的 
+ 美丽的 
+ 极好的"
 filterModes,"Point
 Bilinear
-Trilinear",关闭
+Trilinear","观点 
+ 双线性 
+ 三位一体"
 shadowResolutionModes,"Low
 Medium
 High
-Very High",经典的
-textureArrayLabel,Texture Arrays: ,气候
-unsupported,Unsupported,仅气候
-enabled,Enabled,随机的
-disabled,Disabled,仅随机
-textureArrayInfo,"Improved implementation of terrain textures, with better performance and modding support",离开
+Very High","低的 
+ 中等的 
+ 高的 
+ 很高"
+textureArrayLabel,Texture Arrays: ,纹理数组：
+unsupported,Unsupported,不支持
+enabled,Enabled,启用
+disabled,Disabled,禁用
+textureArrayInfo,"Improved implementation of terrain textures, with better performance and modding support",改善了地形纹理的实施，并提供更好的性能和改装支持

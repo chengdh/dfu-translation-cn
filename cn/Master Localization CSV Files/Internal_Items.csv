@@ -9,22 +9,22 @@ Key,Value,T
 7,Amber,琥珀色
 8,Twigs,树枝
 9,Green Leaves,绿叶
-10,Red Flowers,红色的花朵
+10,Red Flowers,红花
 11,Yellow Flowers,黄色的花
 12,Root Tendrils,根卷须
-13,Root Bulb,根鳞茎
-14,Pine Branch,松枝
-15,Green Berries,绿色浆果
-16,Red Berries,红色浆果
-17,Yellow Berries,黄色浆果
+13,Root Bulb,根灯泡
+14,Pine Branch,松树分支
+15,Green Berries,绿浆果
+16,Red Berries,红浆果
+17,Yellow Berries,黄浆果
 18,Clover,三叶草
 19,Red Rose,红玫瑰
 20,Yellow Rose,黄玫瑰
 21,Black Rose,黑玫瑰
 22,White Rose,白玫瑰
 23,Red Poppy,红罂粟
-24,Black Poppy,黑罂粟
-25,Golden Poppy,金罂粟
+24,Black Poppy,黑色罂粟
+25,Golden Poppy,黄金罂粟
 26,White Poppy,白罂粟
 27,Ginkgo Leaves,银杏叶
 28,Bamboo,竹子
@@ -32,42 +32,42 @@ Key,Value,T
 30,Aloe,芦荟
 31,Fig,如图
 32,Cactus,仙人掌
-33,Werewolf's Blood,狼人之血
-34,Wereboar's Tusk,野猪人的獠牙
-35,Fairy Dragon's Scales,仙龙的鳞片
-36,Nymph Hair,仙女头发
+33,Werewolf's Blood,狼人的鲜血
+34,Wereboar's Tusk,瓦博尔的象牙
+35,Fairy Dragon's Scales,仙女龙的秤
+36,Nymph Hair,若虫头发
 37,Unicorn Horn,独角兽号角
-38,Wraith Essence,幽灵精华
-39,Ectoplasm,灵质
+38,Wraith Essence,幽灵本质
+39,Ectoplasm,外质
 40,Ghoul's Tongue,食尸鬼的舌头
-41,Spider's Venom,蜘蛛毒液
-42,Troll's Blood,巨魔之血
+41,Spider's Venom,蜘蛛的毒液
+42,Troll's Blood,巨魔的鲜血
 43,Snake Venom,蛇毒
-44,Gorgon Snake,戈尔贡蛇
-45,Lich Dust,巫妖之尘
-46,Dragon's Scales,龙鳞
-47,Giant Scorpion Stinger,巨型蝎毒刺
+44,Gorgon Snake,戈贡蛇
+45,Lich Dust,巫婆尘
+46,Dragon's Scales,龙的鳞片
+47,Giant Scorpion Stinger,巨型蝎子毒刺
 48,Small Scorpion Stinger,小蝎子毒刺
-49,Mummy Wrappings,木乃伊裹布
-50,Giant's Blood,巨人之血
-51,Basilisk's Eye,蛇怪之眼
-52,Gryphon's Feather,狮鹫的羽毛
-53,Daedra's Heart,迪德拉之心
+49,Mummy Wrappings,木乃伊包装
+50,Giant's Blood,巨人的血
+51,Basilisk's Eye,蛇怪的眼睛
+52,Gryphon's Feather,狮ry的羽毛
+53,Daedra's Heart,达德拉的心
 54,Saint's Hair,圣人的头发
 55,Holy Relic,圣物
 56,Big Tooth,大牙
-57,Medium Tooth,中齿
-58,Small Tooth,小牙
+57,Medium Tooth,中牙
+58,Small Tooth,小牙齿
 59,Pure Water,纯净水
 60,Rain Water,雨水
-61,Orc's Blood,兽人之血
+61,Orc's Blood,兽人的血
 62,Elixir Vitae,长生不老药
 63,Nectar,花蜜
-64,Ichor,灵液
+64,Ichor,艾克
 65,Mercury,汞
 66,Tin,锡
 67,Brass,黄铜
-68,Lodestone,磁石
+68,Lodestone,洛德斯通
 69,Sulphur,硫
 70,Lead,带领
 71,Iron,铁
@@ -77,54 +77,54 @@ Key,Value,T
 75,Platinum,铂
 76,Ivory,象牙
 77,Pearl,珍珠
-78,Indulcet,诱发
-79,Sursum,苏尔苏姆
-80,Quaesto Vil,奎斯托维尔
-81,Aegrotat,埃格罗塔
+78,Indulcet,放纵
+79,Sursum,Sursum
+80,Quaesto Vil,quaesto vil
+81,Aegrotat,agrotat
 82,Glass Jar,玻璃罐
 83,Glass Bottle,玻璃瓶
-84,Decanter,醒酒器
+84,Decanter,decanter
 85,Clay Jar,粘土罐
 86,Small Sack,小麻袋
 87,Large Sack,大麻袋
 88,Quiver,颤动
 89,Backpack,背包
-90,Small Chest,小胸
+90,Small Chest,小胸部
 91,Wine Rack,酒架
 92,Large Chest,大胸部
 93,Small Cart,小推车
 94,Horse,马
 95,Rowboat,划艇
 96,Large Boat,大船
-97,Small Ship,小型船
-98,Large Galley,大型厨房
-99,Deed to Townhouse,联排别墅契约
-100,Deed to House,房屋契据
-101,Deed to Manor,庄园契约
+97,Small Ship,小船
+98,Large Galley,大厨房
+99,Deed to Townhouse,契约到联排别墅
+100,Deed to House,契据
+101,Deed to Manor,向庄园契据
 102,Cuirass,胸甲
-103,Gauntlets,护手
+103,Gauntlets,手套
 104,Greaves,油渣
-105,Left Pauldron,左肩甲
-106,Right Pauldron,右肩甲
+105,Left Pauldron,离开了保尔德隆
+106,Right Pauldron,右Pauldron
 107,Helm,舵
 108,Boots,靴子
-109,Buckler,圆盾
-110,Round Shield,圆盾
+109,Buckler,巴克勒
+110,Round Shield,圆形盾牌
 111,Kite Shield,风筝盾
 112,Tower Shield,塔盾
 113,Dagger,匕首
-114,Tanto,短藤
+114,Tanto,Tanto
 115,Staff,职员
 116,Shortsword,短剑
-117,Wakazashi,若差
-118,Broadsword,大刀
+117,Wakazashi,Wakazashi
+118,Broadsword,Broadsword
 119,Saber,军刀
 120,Longsword,长剑
-121,Katana,武士刀
-122,Claymore,阔剑
-123,Dai-katana,大武士
+121,Katana,卡塔纳
+122,Claymore,克莱莫尔
+123,Dai-katana,dai-katana
 124,Mace,锤
-125,Flail,连枷
+125,Flail,flail
 126,Warhammer,战锤
 127,Battle Axe,战斧
 128,War Axe,战斧
@@ -133,21 +133,21 @@ Key,Value,T
 131,Arrow,箭
 132,Spellbook,拼写书
 133,Amulet,护身符
-134,Bracer,护腕
+134,Bracer,手镯
 135,Ring,戒指
 136,Bracelet,手镯
 137,Mark,标记
-138,Torc,托克
+138,Torc,Torc
 139,Cloth Amulet,布护身符
 140,Wand,棍棒
-141,Straps,肩带
+141,Straps,皮带
 142,Armbands,臂章
 143,Kimono,和服
-144,Fancy Armbands,花式臂章
+144,Fancy Armbands,精美的臂章
 145,Sash,窗扇
-146,Eodoric,伊奥多里克
+146,Eodoric,怪异
 147,Shoes,鞋
-148,Tall Boots,高筒靴
+148,Tall Boots,高靴子
 149,Boots,靴子
 150,Sandals,凉鞋
 151,Casual Pants,休闲裤
@@ -155,14 +155,14 @@ Key,Value,T
 153,Short Skirt,短裙
 154,Casual Cloak,休闲斗篷
 155,Formal Cloak,正式斗篷
-156,Khajiit Suit,虎人套装
-157,Dwynnen Surcoat,Dwynnen 外套
+156,Khajiit Suit,Khajiit西装
+157,Dwynnen Surcoat,Dwynnen Surcoat
 158,Short Tunic,襡
-159,Formal Tunic,正式束腰外衣
+159,Formal Tunic,正式上衣
 160,Toga,长袍
-161,Reversible Tunic,双面束腰外衣
-162,Loincloth,腰布
-163,Plain Robes,素色长袍
+161,Reversible Tunic,可逆的上衣
+162,Loincloth,locincloth
+163,Plain Robes,朴素的长袍
 164,Priest Robes,牧师长袍
 165,Short Shirt,短衬衫
 166,Short Shirt,短衬衫
@@ -172,34 +172,34 @@ Key,Value,T
 170,Short Shirt,短衬衫
 171,Long Shirt,长衬衫
 172,Long Shirt,长衬衫
-173,Open Tunic,开放式束腰外衣
+173,Open Tunic,开放式上衣
 174,Wrap,裹
 175,Long Skirt,长裙
-176,Anticlere Surcoat,Anticlere 外套
-177,Challenger Straps,挑战者肩带
+176,Anticlere Surcoat,反洁面的毛衣
+177,Challenger Straps,挑战者皮带
 178,Short Shirt,短衬衫
 179,Long Shirt,长衬衫
 180,Vest,背心
-181,Champion Straps,冠军肩带
+181,Champion Straps,冠军皮带
 182,Brassiere,乳罩
-183,Formal Brassiere,正式胸罩
-184,Peasant Blouse,农民衬衫
-185,Eodoric,伊奥多里克
+183,Formal Brassiere,正式的铜管
+184,Peasant Blouse,农民上衣
+185,Eodoric,怪异
 186,Shoes,鞋
-187,Tall Boots,高筒靴
+187,Tall Boots,高靴子
 188,Boots,靴子
 189,Sandals,凉鞋
 190,Casual Pants,休闲裤
 191,Casual Cloak,休闲斗篷
 192,Formal Cloak,正式斗篷
-193,Khajiit Suit,虎人套装
-194,Formal Eodoric,正式的伊奥多里克
+193,Khajiit Suit,Khajiit西装
+194,Formal Eodoric,正式的怪异
 195,Evening Gown,晚礼服
 196,Day Gown,日礼服
 197,Casual Dress,休闲服饰
 198,Strapless Dress,露肩礼服
-199,Loincloth,腰布
-200,Plain Robes,素色长袍
+199,Loincloth,locincloth
+200,Plain Robes,朴素的长袍
 201,Priestess Robes,女祭司长袍
 202,Short Shirt,短衬衫
 203,Short Shirt,短衬衫
@@ -209,39 +209,39 @@ Key,Value,T
 207,Short Shirt,短衬衫
 208,Long Shirt,长衬衫
 209,Long Shirt,长衬衫
-210,Open Tunic,开放式束腰外衣
+210,Open Tunic,开放式上衣
 211,Wrap,裹
 212,Long Skirt,长裙
 213,Tights,紧身裤
 214,Short Shirt,短衬衫
 215,Long Shirt,长衬衫
 216,Vest,背心
-217,Plain Single Bed,普通单人床
-218,Fancy Single Bed,精美单人床
-219,Plain Double Bed,普通双人床
-220,Fancy Double Bed,精美双人床
-221,Large Oak Table,大橡木桌
+217,Plain Single Bed,普通的单人床
+218,Fancy Single Bed,花哨的单人床
+219,Plain Double Bed,普通的双人床
+220,Fancy Double Bed,花哨的双人床
+221,Large Oak Table,大橡树桌
 222,Large Cherry Table,大樱桃桌
-223,Large Mahogany Table,大红木桌子
+223,Large Mahogany Table,大桃花心木桌
 224,Large Teak Table,大柚木桌
 225,Small Oak Table,小橡木桌
 226,Small Cherry Table,小樱桃桌
-227,Small Mahogany Table,小红木桌
+227,Small Mahogany Table,小桃花心木桌
 228,Small Teak Table,小柚木桌
-229,Oak Chair,橡木椅
+229,Oak Chair,橡树椅
 230,Cherry Chair,樱桃椅
-231,Mahogany Chair,红木椅
+231,Mahogany Chair,桃花心木椅
 232,Teak Chair,柚木椅
 233,Curtains,窗帘
-234,Fancy Curtains,花式窗帘
+234,Fancy Curtains,花哨的窗帘
 235,Large Pillow,大枕头
 236,Small Pillow,小枕头
-237,Small Plain Rug,小纯色地毯
-238,Large Plain Rug,大号纯色地毯
-239,Small Fine Rug,小精致地毯
-240,Large Fine Rug,大号精美地毯
+237,Small Plain Rug,小普通地毯
+238,Large Plain Rug,大的普通地毯
+239,Small Fine Rug,小的地毯
+240,Large Fine Rug,大地毯
 241,Large Tapestry,大挂毯
-242,Medium Tapestry,中号挂毯
+242,Medium Tapestry,中挂毯
 243,Small Tapestry,小挂毯
 244,Large Skins,大皮
 245,Small Skins,小皮
@@ -249,7 +249,7 @@ Key,Value,T
 247,Torch,火炬
 248,Lantern,灯笼
 249,Bandage,绷带
-250,Shubbery,舒伯里
+250,Shubbery,Shubbery
 251,Flowers,花朵
 252,Oil,油
 253,Candle,蜡烛
@@ -259,25 +259,25 @@ Key,Value,T
 257,Skeleton,骨骼
 258,Prayer Beads,念珠
 259,Rare Symbol,稀有符号
-260,Common Symbol,常用符号
+260,Common Symbol,常见符号
 261,Bell,钟
 262,Holy Water,圣水
 263,Talisman,护符
-264,Religious Item,宗教物品
+264,Religious Item,宗教项目
 265,Small Statue,小雕像
-266,Large Statue,大型雕像
+266,Large Statue,大雕像
 267,Icon,图标
 268,Scarab,圣甲虫
-269,Holy Candle,圣烛
-270,Holy Dagger,圣匕首
-271,Holy Tome,圣书
+269,Holy Candle,蜡烛
+270,Holy Dagger,匕首
+271,Holy Tome,神圣的书
 272,Altar,坛
 273,Font,字体
 274,Soul Trap,灵魂陷阱
 275,Letter of Credit,信用证
-276,Gold Pieces,金币
+276,Gold Pieces,金片
 277,Book,书
-278,Potion Recipe,药水配方
+278,Potion Recipe,药水食谱
 279,Parchment,羊皮纸
 280,Totem,图腾
 281,Dead Body,尸体
@@ -285,5 +285,5 @@ Key,Value,T
 283,Finger,手指
 284,Painting,绘画
 285,House Deed,房屋契约
-286,Ship Deed,船舶契约
+286,Ship Deed,船行
 287,Map,地图

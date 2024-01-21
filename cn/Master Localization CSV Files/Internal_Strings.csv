@@ -1,66 +1,66 @@
 Key,Value,T
-about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.,此字符串表集合存储 FALL.EXE 中硬编码的文本以及 Daggerfall Unity 特有的文本。
-pleaseSelectYourHomeProvince,Please select your home province...,请选择您所在的省份...
+about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.,该字符串表集合存储在秋季中进行了硬编码的文本。Exe和匕首统一独有的文本。
+pleaseSelectYourHomeProvince,Please select your home province...,请选择您的家庭省...
 saveGame,Save Game,保存游戏
 loadGame,Load Game,加载游戏
-thingJustDied,%s just died.,%s刚刚死了。
-gameSaved,Game saved.,游戏已保存。
-gameLoaded,Game loaded.,游戏已加载。
-thisHouseHasNothingOfValue,This house has nothing of value.,这房子没有什么值钱的东西。
-findLocationPrompt,Enter name of place : ,输入地点名称：
-rightHandEquipped,Right hand equipped.,右手装备。
-leftHandEquipped,Left hand equipped.,左手装备。
-usingRightHand,Using weapon in right hand.,右手使用武器。
-usingLeftHand,Using weapon in left hand.,左手使用武器。
-itemHasBroken,%s has broken.,%s 坏了。
-itemHasBrokenPlural,%s have broken.,%s 坏了。
-cannotCarryGold,You cannot carry that much gold.,你不能携带那么多黄金。
-cannotFloat,You are carrying too much to stay afloat.,你背负的东西太多，无法维持生计。
-youHaveNoArrows,You have no arrows.,你没有箭头。
-oldSaveNoTrade,"Old indoor save loaded, trade window will not work please exit and re-enter building.",旧的室内保存已加载，交易窗口将无法工作，请退出并重新进入建筑物。
-theBodyHasNoTreasure,The body has no treasure.,身无宝物。
+thingJustDied,%s just died.,％s刚刚去世。
+gameSaved,Game saved.,游戏保存。
+gameLoaded,Game loaded.,游戏加载。
+thisHouseHasNothingOfValue,This house has nothing of value.,这所房子没有任何价值。
+findLocationPrompt,Enter name of place : ,输入地点：
+rightHandEquipped,Right hand equipped.,配备右手。
+leftHandEquipped,Left hand equipped.,左手配备了。
+usingRightHand,Using weapon in right hand.,用右手使用武器。
+usingLeftHand,Using weapon in left hand.,在左手中使用武器。
+itemHasBroken,%s has broken.,％s破坏了。
+itemHasBrokenPlural,%s have broken.,％s坏了。
+cannotCarryGold,You cannot carry that much gold.,你不能携带那么多的黄金。
+cannotFloat,You are carrying too much to stay afloat.,您携带太多无法维持生计。
+youHaveNoArrows,You have no arrows.,您没有箭头。
+oldSaveNoTrade,"Old indoor save loaded, trade window will not work please exit and re-enter building.",旧的室内节省加载，贸易窗口将无法工作，请退出并重新进入建筑物。
+theBodyHasNoTreasure,The body has no treasure.,身体没有宝藏。
 youAreTooFarAway,You are too far away...,你太远了...
-youSeeAn,You see an %s.,您会看到一个 %s。
-youSeeA,You see a %s.,您看到一个 %s。
+youSeeAn,You see an %s.,您会看到一个％s。
+youSeeA,You see a %s.,您会看到一个％s。
 youSeeADeadPerson,You see a dead person.,你看到一个死人。
-youSeeADead,You see a dead %s.,你看到一个死了的%s。
-youCollectArrows,You pluck your arrows out of the corpse.,你从尸体中拔出箭。
-loiterHowManyHours,Loiter how many hours : ,徘徊多少小时：
-restHowManyHours,Rest how many hours : ,休息多少小时：
-potionRecipeFor,Recipe for Potion of %po,%po药水配方
-potionOf,Potion of %po,%po药水
+youSeeADead,You see a dead %s.,您会看到一个死亡％s。
+youCollectArrows,You pluck your arrows out of the corpse.,您将箭从尸体中摘下来。
+loiterHowManyHours,Loiter how many hours : ,闲逛几个小时：
+restHowManyHours,Rest how many hours : ,休息几个小时：
+potionRecipeFor,Recipe for Potion of %po,％PO药水的食谱
+potionOf,Potion of %po,％po药水
 letterPrefix,Letter: ,信：
-multipleAssignments,You have multiple assignments...,你有多项任务...
-youAreEntering,You are entering %s,您正在输入 %s
-storeClosed,Store is closed. Open from %d1:00 to %d2:00.,商店关门了。开放时间为 %d1:00 至 %d2:00。
-guildClosed,Guild is closed. Open from %d1:00 to %d2:00.,公会已关闭。开放时间为 %d1:00 至 %d2:00。
-any,Any %s,任意 %s
-arkayDesc,God of Birth and Death,生死之神
+multipleAssignments,You have multiple assignments...,您有多个作业...
+youAreEntering,You are entering %s,您正在进入％s
+storeClosed,Store is closed. Open from %d1:00 to %d2:00.,商店已关闭。 从％D1：00到％D2：00开放。
+guildClosed,Guild is closed. Open from %d1:00 to %d2:00.,公会是关闭的。 从％D1：00到％D2：00开放。
+any,Any %s,任何％s
+arkayDesc,God of Birth and Death,生死神
 zenDesc,God of Work and Commerce,工作和商业之神
-maraDesc,Goddess of Love,爱情女神
+maraDesc,Goddess of Love,爱的女神
 akatoshDesc,God of Time,时间之神
 julianosDesc,God of Logic,逻辑之神
-dibellaDesc,Goddess of Beauty,美丽女神
-stendarDesc,God of Mercy,慈悲之神
+dibellaDesc,Goddess of Beauty,美丽的女神
+stendarDesc,God of Mercy,怜悯之神
 kynarethDesc,Goddess of Air,空气女神
-interactionIsNowInMode,Interaction is now in %s mode.,交互现在处于 %s 模式。
+interactionIsNowInMode,Interaction is now in %s mode.,相互作用现在处于％s模式。
 steal,steal,偷
 grab,grab,抓住
 info,info,信息
 dialogue,dialogue,对话
 residence,Residence,住宅
-youSee,You see %s.,你看到%s了。
-theNamedResidence,The %s Residence,%s 住宅
-playerResidence,%s's house,%s的房子
-materialIneffective,The material of the weapon you are using is ineffective.,你所使用的武器材质无效。
-successfulBackstab,Successful backstab!,背刺成功！
-languagePacified,Pacified %e using %s skill.,使用%s技能安抚%e。
-lockpickingSuccess,The lock clicks open.,锁咔哒一声打开。
-lockpickingFailure,It does not unlock.,它不解锁。
-magicLock,This is a magically held lock...,这是一把神奇的锁……
-lockpickChance1,This lock has nothing to fear from you...,这把锁让你无所畏惧......
-lockpickChance2,It'd be a miracle if you picked this lock...,如果你打开这把锁那就是一个奇迹......
-lockpickChance3,This lock looks to be beyond your skills...,这把锁看起来超出了你的能力……
+youSee,You see %s.,您会看到％s。
+theNamedResidence,The %s Residence,％的住所
+playerResidence,%s's house,％S的房子
+materialIneffective,The material of the weapon you are using is ineffective.,您使用的武器的材料无效。
+successfulBackstab,Successful backstab!,成功的背刺！
+languagePacified,Pacified %e using %s skill.,使用％S技能和平％e。
+lockpickingSuccess,The lock clicks open.,锁定点击打开。
+lockpickingFailure,It does not unlock.,它没有解锁。
+magicLock,This is a magically held lock...,这是一个神奇的锁...
+lockpickChance1,This lock has nothing to fear from you...,这个锁没有任何可怕的东西...
+lockpickChance2,It'd be a miracle if you picked this lock...,如果您选择了这个锁，那将是一个奇迹...
+lockpickChance3,This lock looks to be beyond your skills...,这个锁看起来超出了您的技能...
 buildingNames,"Temple of Akatosh
 Temple of Arkay
 Temple of Dibella
@@ -90,7 +90,36 @@ Bank
 Bookstore
 Clothing store
 Gem store
-Pawn shop",阿卡托什神庙
+Pawn shop","阿卡托什神庙 
+ 阿凯神庙 
+ 迪贝拉神庙 
+ 朱莉安诺斯神庙 
+ 凯纳斯神庙 
+ 玛拉神庙 
+ Stendarr神庙 
+ 禅神庙 
+ 乌鸦的顺序 
+ 龙骑士 
+ 猫头鹰骑士 
+ 蜡烛的顺序 
+ 火焰骑士 
+ horn 
+ 玫瑰骑士 
+ 轮子 
+ scar 
+ haw 
+ 法师协会 
+ 战斗机协会 
+ 酒馆 
+ 图书馆 
+ 武器史密斯 
+ 装甲 
+ 炼金术士 
+ 银行 
+ 书店 
+ 服装店 
+ 宝石商店 
+ 当铺"
 lockpickChance,"You doubt your ability to open this lock...
 This lock looks difficult...
 You would be challenged by this lock...
@@ -100,124 +129,133 @@ This lock seems relatively easy...
 You are amused by this lock...
 You laugh at the amateur quality of this lock...
 You see a pathetic excuse for a lock...
-This lock is an insult to your abilities...",阿尔凯神庙
-youPinchedGoldPiece,You pinched 1 gold piece.,迪贝拉神庙
-youPinchedGoldPieces,You pinched %d gold pieces.,朱利亚诺斯神庙
-youAreNotSuccessful,You are not successful...,凯纳雷斯神庙
-daysUntilFreedom,%d days until freedom.,马拉神庙
-skillImprove,Your %s skill has improved.,斯坦达尔神庙
-mustDistributeBonusPoints,You must distribute all bonus points.,禅寺
-enterNewName,Enter new name : ,渡鸦教团
-affiliation,Affiliation,龙骑士团
-rank,Rank,猫头鹰骑士团
-serviceQuests,Get Quest,蜡烛的秩序
-serviceSell,Sell,火焰骑士团
-serviceBanking,Banking,号角主持人
-serviceIdentify,Identify,玫瑰骑士团
-serviceBuySpells,Buy Spells,车轮骑士团
-serviceTraining,Training,圣甲虫骑士团
-serviceTeleport,Teleportation,鹰骑士团
-serviceMakeSpells,Make Spells,法师公会
-serviceBuyMagicItems,Buy Magic Items,战士公会
-serviceSellMagicItems,Sell Magic Items,酒馆
-serviceDaedraSummon,Daedra Summoning,图书馆
-serviceMakeMagicItems,Make Magic Items,武器史密斯
-serviceRepairs,Repairs,军械师
-serviceDonate,Make Donation,炼金术士
-serviceCure,Cure Disease,银行
-serviceSpymaster,Spymaster,书店
-serviceMakePotions,Make Potions,服装店
-serviceBuyPotions,Buy Potions,宝石店
-serviceBuySoulgems,Buy Soulgems,当铺
-serviceReceiveArmor,Receive Armor,你怀疑自己是否有能力打开这把锁......
-serviceReceiveHouse,Receive House,这锁看起来好难啊……
-serviceReceiveHouseAlready,You have already received your house.,你会受到这把锁的挑战......
-accessMembersOnly,You need to be a member of sufficient rank to access this.,这把锁将被证明是一个很好的挑战......
-serviceCured,You are cured.,你认为你应该能够撬开这把锁......
-serviceSummonCost1,"%pcn, the cost for me to attempt a",这个锁看起来比较简单...
-serviceSummonCost2,summoning of %dae is ,你被这个锁逗乐了...
-serviceSummonCost3, gold.,你嘲笑这把锁的业余品质......
-roomFreeForKnightSuchAsYou,The room is free for a knight such as you.,你看到了一个可悲的锁借口......
-roomFreeDueToHeartsDay,Room is free due to Heart's Day.,这把锁是对你能力的侮辱……
-youAreNotHungry,You are not hungry.,你捏了 1 个金币。
-exhaustedInWater,Fatigue overcomes you and sends you to a watery grave....,你捏了%d枚金币。
-youFeelSomewhatBad,You feel somewhat bad.,你没有成功...
-avoidDeath,"By the mercy of Stendarr, you survive certain death!",距离自由还剩 %d 天。
-pronounHe,he,你的 %s 技能有所提高。
-pronounShe,she,您必须分配所有奖励积分。
-pronounHim,him,输入新名称：
-pronounHer,her,联系
-pronounHis,his,秩
-pronounHers,hers,获取任务
-pronounHimself,himself,卖
-pronounHerself,herself,银行业
-city,city,确认
-village,village,购买法术
-hamlet,hamlet,训练
-farm,farm,传送
-shack,shack,制造咒语
-manor,manor,购买魔法物品
-community,community,出售魔法物品
-shrine,shrine,魔族召唤
-King,King,制作魔法物品
-Queen,Queen,维修
-Duke,Duke,捐款
-Duchess,Duchess,治愈疾病
-Marquis,Marquis,间谍大师
-Marquise,Marquise,制作药水
-Count,Count,购买药水
-Countess,Countess,购买灵魂宝石
-Baron,Baron,接收装甲
-Baroness,Baroness,接收屋
-Lord,Lord,您已经收到了您的房子。
-Lady,Lady,您需要成为具有足够级别的会员才能访问此内容。
-revered,revered,你痊愈了。
-esteemed,esteemed,%pcn，我尝试的成本
-honored,honored,%dae 的召唤是
-admired,admired, 金子。
-respected,respected,对于像您这样的骑士来说，这个房间是免费的。
-dependable,dependable,由于心脏日，房间免费。
-aCommonCitizen,a common citizen,你不饿。
-hated,hated,疲劳战胜了你，把你送进了水坟墓......
-pondScum,pond scum,你感觉有些不好。
-aVillain,a villain,靠斯坦达尔的仁慈，你一定会死而复生！
-aCriminal,a criminal,他
-aScoundrel,a scoundrel,她
-undependable,undependable,他
-unknown,unknown,她
-Broken,Broken,他的
-Useless,Useless,她的
-Battered,Battered,他自己
-Worn,Worn,她自己
-Used,Used,城市
-SlightlyUsed,Slightly Used,村庄
-AlmostNew,Almost New,村庄
-New,New,农场
-Nothing,Nothing,窝棚
-local,local,庄园
-tavern,tavern,社区
-Attempted_Breaking_And_Entering,Attempted Breaking and Entering,神社
-Trespassing,Trespassing,国王
-Breaking_And_Entering,Breaking and Entering,女王
-Assault,Assault,公爵
-Murder,Murder,公爵夫人
-Tax_Evasion,Tax Evasion,侯爵
-Criminal_Conspiracy,Criminal Conspiracy,侯爵夫人
-Vagrancy,Vagrancy,数数
-Smuggling,Smuggling,伯爵夫人
-Piracy,Piracy,男爵
-High_Treason,High Treason,男爵夫人
-Pickpocketing,Pickpocketing,主
-Theft,Theft,女士
-Treason,Treason,受人尊敬
-Loan_Default,Loan Default,尊敬的
-Regular_Punishment_String,%gtp gold pieces in fines and %dip days in prison,荣幸
-Banishment,Banishment,钦佩的
-Execution,Execution,受人尊敬
-cannotChangeTransportationIndoors,You cannot change transportation indoors.,可信
-cannotTravelWithEnemiesNearby,You cannot travel with enemies nearby.,一个普通公民
-cannotTravelIndoors,You cannot travel while indoors.,讨厌的
-powersUnknown,Powers unknown.,塘泥
+This lock is an insult to your abilities...","您怀疑打开此锁的能力... 
+ 这个锁看起来很困难... 
+ 您会受到这个锁的挑战... 
+ 这个锁将是一个很好的挑战... 
+ 您认为您应该能够选择此锁... 
+ 这个锁似乎相对容易... 
+ 您被这个锁定... 
+ 你嘲笑这个锁的业余质量... 
+ 您会看到锁的可悲借口... 
+ 这个锁是对您的能力的侮辱..."
+youPinchedGoldPiece,You pinched 1 gold piece.,你把1块金碎了。
+youPinchedGoldPieces,You pinched %d gold pieces.,您将％d的金色碎片夹住。
+youAreNotSuccessful,You are not successful...,你没有成功...
+daysUntilFreedom,%d days until freedom.,％D天，直到自由。
+skillImprove,Your %s skill has improved.,您的％技能已提高。
+mustDistributeBonusPoints,You must distribute all bonus points.,您必须分发所有奖励积分。
+enterNewName,Enter new name : ,输入新名称：
+affiliation,Affiliation,联系
+rank,Rank,秩
+serviceQuests,Get Quest,获取任务
+serviceSell,Sell,卖
+serviceBanking,Banking,银行业
+serviceIdentify,Identify,确认
+serviceBuySpells,Buy Spells,购买法术
+serviceTraining,Training,训练
+serviceTeleport,Teleportation,传送
+serviceMakeSpells,Make Spells,制作咒语
+serviceBuyMagicItems,Buy Magic Items,购买魔法物品
+serviceSellMagicItems,Sell Magic Items,出售魔术物品
+serviceDaedraSummon,Daedra Summoning,达德拉召唤
+serviceMakeMagicItems,Make Magic Items,制作魔法物品
+serviceRepairs,Repairs,维修
+serviceDonate,Make Donation,捐款
+serviceCure,Cure Disease,治愈疾病
+serviceSpymaster,Spymaster,Spymaster
+serviceMakePotions,Make Potions,做药水
+serviceBuyPotions,Buy Potions,购买药水
+serviceBuySoulgems,Buy Soulgems,购买soulgems
+serviceReceiveArmor,Receive Armor,接收装甲
+serviceReceiveHouse,Receive House,收到房子
+serviceReceiveHouseAlready,You have already received your house.,您已经收到了房子。
+accessMembersOnly,You need to be a member of sufficient rank to access this.,您需要成为足够排名的成员才能访问此问题。
+serviceCured,You are cured.,你已经治愈了。
+serviceSummonCost1,"%pcn, the cost for me to attempt a",％PCN，我尝试尝试的费用
+serviceSummonCost2,summoning of %dae is ,召唤％dae是
+serviceSummonCost3, gold.,金子。
+roomFreeForKnightSuchAsYou,The room is free for a knight such as you.,像你这样的骑士免费的房间是免费的。
+roomFreeDueToHeartsDay,Room is free due to Heart's Day.,由于内心的日子，房间是免费的。
+youAreNotHungry,You are not hungry.,你不饿。
+exhaustedInWater,Fatigue overcomes you and sends you to a watery grave....,疲劳克服了您，并将您送到一个水坟墓。
+youFeelSomewhatBad,You feel somewhat bad.,你感觉有些不好。
+avoidDeath,"By the mercy of Stendarr, you survive certain death!",受Stendarr的怜悯，您可以在某些死亡中幸存下来！
+pronounHe,he,他
+pronounShe,she,她
+pronounHim,him,他
+pronounHer,her,她
+pronounHis,his,他的
+pronounHers,hers,她的
+pronounHimself,himself,他自己
+pronounHerself,herself,她自己
+city,city,城市
+village,village,村庄
+hamlet,hamlet,村庄
+farm,farm,农场
+shack,shack,窝棚
+manor,manor,庄园
+community,community,社区
+shrine,shrine,神社
+King,King,国王
+Queen,Queen,女王
+Duke,Duke,公爵
+Duchess,Duchess,公爵夫人
+Marquis,Marquis,侯爵
+Marquise,Marquise,侯爵夫人
+Count,Count,数数
+Countess,Countess,伯爵夫人
+Baron,Baron,男爵
+Baroness,Baroness,男爵夫人
+Lord,Lord,主
+Lady,Lady,女士
+revered,revered,受到尊敬
+esteemed,esteemed,受人尊敬
+honored,honored,荣幸
+admired,admired,钦佩
+respected,respected,受人尊敬
+dependable,dependable,可信
+aCommonCitizen,a common citizen,普通公民
+hated,hated,讨厌
+pondScum,pond scum,塘泥
+aVillain,a villain,一个坏人
+aCriminal,a criminal,一名罪犯
+aScoundrel,a scoundrel,一个骗子
+undependable,undependable,不依赖
+unknown,unknown,未知
+Broken,Broken,破碎的
+Useless,Useless,无用
+Battered,Battered,受虐
+Worn,Worn,磨损
+Used,Used,用过的
+SlightlyUsed,Slightly Used,稍微用
+AlmostNew,Almost New,几乎是新的
+New,New,新的
+Nothing,Nothing,没有什么
+local,local,当地的
+tavern,tavern,酒馆
+Attempted_Breaking_And_Entering,Attempted Breaking and Entering,未能破坏进入
+Trespassing,Trespassing,侵入
+Breaking_And_Entering,Breaking and Entering,破门而入
+Assault,Assault,突击
+Murder,Murder,谋杀
+Tax_Evasion,Tax Evasion,逃税
+Criminal_Conspiracy,Criminal Conspiracy,犯罪阴谋
+Vagrancy,Vagrancy,流浪
+Smuggling,Smuggling,走私
+Piracy,Piracy,海盗行为
+High_Treason,High Treason,叛国罪
+Pickpocketing,Pickpocketing,扒手
+Theft,Theft,盗窃
+Treason,Treason,叛国
+Loan_Default,Loan Default,贷款违约
+Regular_Punishment_String,%gtp gold pieces in fines and %dip days in prison,％GTP罚款中的黄金件，监狱中的％浸入天数％
+Banishment,Banishment,流放
+Execution,Execution,执行
+cannotChangeTransportationIndoors,You cannot change transportation indoors.,您不能在室内更改运输。
+cannotTravelWithEnemiesNearby,You cannot travel with enemies nearby.,您不能与附近的敌人一起旅行。
+cannotTravelIndoors,You cannot travel while indoors.,您不能在室内旅行。
+powersUnknown,Powers unknown.,力量未知。
 itemPowers,"Cast when used:
 Cast when held:
 Cast when strikes:
@@ -243,7 +281,32 @@ Health leech
 Bad reactions from
 Extra weight
 Weakens armor
-Bad rep with",一个坏人
+Bad rep with","使用时铸造： 
+ 举行时铸造： 
+ 罢工时铸造： 
+ 额外的咒语pts 
+ 有效与 
+ 加入健康 
+ 吸血鬼效应 
+ 增加体重津贴 
+ 维修对象 
+ 吸收法术 
+ 提高技能 
+ 羽毛重量 
+ 加强盔甲 
+ 提高才能 
+ 好代表 
+ 灵魂束缚 
+ 项目恶化 
+ 用户受到损害 
+ 视力问题 
+ 步行问题 
+ 低伤害与 
+ 健康水ech 
+ 不良反应 
+ 额外的重量 
+ 削弱盔甲 
+ 不好的代表"
 enemyNames,"Rat
 Imp
 Spriggan
@@ -305,7 +368,68 @@ Ranger
 Barbarian
 Warrior
 Knight
-City Watch",一名罪犯
+City Watch","鼠 
+ 小鬼 
+ 斯普里格根 
+ 巨型蝙蝠 
+ 大灰熊 
+ sabretooth老虎 
+ 蜘蛛 
+ 兽人 
+ 半人马座 
+ 狼人 
+ 若虫 
+ 屠宰场 
+ 兽人中士 
+ 哈皮 
+ 船 
+ 骨骼战士 
+ 巨大的 
+ 僵尸 
+ 鬼 
+ 木乃伊 
+ 巨型蝎子 
+ 兽人萨满 
+ 石像鬼 
+ 幽灵 
+ 兽队 
+ 弗罗斯特·达德拉 
+ 开火戴德拉 
+ 达德罗斯 
+ 吸血鬼 
+ 达德拉诱惑者 
+ 古代吸血鬼 
+ 达德拉·洛德（Daedra Lord） 
+ 巫婆 
+ 古老的巫妖 
+ 资园 
+ 开火Atronach 
+ 铁Atronach 
+ 肉Atronach 
+ 冰阿特罗纳赫 
+ 马 
+ 资园 
+ Dreugh 
+ 拉米亚 
+ 法师 
+ 拼写标志 
+ 战司 
+ 巫师 
+ 治愈者 
+ 睡衣 
+ 诗人 
+ 小偷 
+ 流氓 
+ 杂技演员 
+ 贼 
+ 刺客 
+ 僧 
+ 射手 
+ 游侠 
+ 野蛮人 
+ 战士 
+ 骑士 
+ 城市观察"
 extraSpellPtsTimes,"during Winter
 during Spring
 during Summer
@@ -316,743 +440,774 @@ during New Moon
 near undead
 near daedra
 near humanoids
-near animals",恶棍
+near animals","在冬天 
+ 春季 
+ 在夏天 
+ 秋天 
+ 在满月期间 
+ 在半月期间 
+ 在新月期间 
+ 近年 
+ 在达德拉附近 
+ 靠近人形生物 
+ 近动物"
 regensHealthTimes,"all the time
 in sunlight
-in darkness",不可靠的
+in darkness","每时每刻 
+ 在阳光下 
+ 在黑暗中"
 vampiricEffectRanges,"at range
-when strikes",未知
+when strikes","在范围 
+ 当罢工时"
 increasedWeightAllowances,"25% additional
-50% additional",破碎的
+50% additional","额外25％ 
+ 额外50％"
 improvedTalents,"hearing
 athleticism
-adrenaline rush",无用
+adrenaline rush","听力 
+ 运动能力 
+ 肾上腺素"
 itemDeteriorateLocations,"all the time
 in sunlight
-in holy places",被殴打
+in holy places","每时每刻 
+ 在阳光下 
+ 在圣地"
 userTakesDamageLocations,"in sunlight
-in holy places",磨损的
+in holy places","在阳光下 
+ 在圣地"
 enemyGroupNames,"undead
 Daedra
 humanoids
-animals",用过的
+animals","亡灵 
+ 达德拉 
+ 人形生物 
+ 动物"
 healthLeechStopConditions,"whenever used
 unless used daily
-unless used weekly",稍微用
+unless used weekly","每当使用时 
+ 除非每天使用 
+ 除非每周使用"
 badReactionFromEnemyGroups,"humanoids
 animals
-Daedra",几乎全新
+Daedra","人形生物 
+ 动物 
+ 达德拉"
 repWithGroups,"Commoners
 Merchants
 Scholars
 Nobility
 Underworld
-All",新的
-youReceiveGoldPieces,You receive %s gold pieces.,没有什么
-bankPurchasePrice,Price : %s gold,当地的
-youHaveRentedRoom,You have a room at %s for %d hours.,酒馆
-haveNotRentedRoom,You have not rented a room here.,尝试破门而入
-expiredRentedRoom,Your time for this room has expired.,侵入
-tavernAle,Ale (1 gold),破门而入
-tavernBeer,Beer (1 gold),突击
-tavernMead,Mead (2 gold),谋杀
-tavernWine,Wine (3 gold),逃税
-tavernBread,Bread (1 gold),犯罪阴谋
-tavernBroth,Broth (1 gold),流浪
-tavernCheese,Cheese (2 gold),走私
-tavernFowl,Fowl (3 gold),海盗行为
-tavernGruel,Gruel (2 gold),叛国罪
-tavernPie,Pie (2 gold),扒窃
-tavernStew,Stew (3 gold),盗窃
-pressButtonToFireSpell,Press button to fire spell.,叛国罪
-climbingMode,Climbing mode.,贷款违约
-rappelMode,Rappel mode.,%gtp 枚金币罚款和 %dip 天入狱
-hangingMode,Hanging Mode,流放
-acuteHearing,Acute Hearing,执行
-adrenalineRush,Adrenaline Rush,您无法在室内换乘交通工具。
-athleticism,Athleticism,你不能和附近的敌人一起旅行。
-bonusToHit,Bonus to hit,您不能在室内旅行。
-expertiseIn,Expertise in,权力未知。
-immunity,Immunity,使用时施展：
-increasedMagery,Increased Magery,举行时演员表：
-rapidHealing,Rapid Healing,攻击时施放：
-regenerateHealth,Regenerate Health,额外法术点数
-resistance,Resistance,强效 vs
-spellAbsorption,Spell Absorption,雷根斯健康
-animals,Animals,吸血鬼效应
-daedra,Daedra,增加重量限额
-humanoid,Humanoid,修复物体
-undead,Undead,吸收法术
-axe,Axe,增强技能
-bluntWeapon,Blunt Weapon,羽毛重量
-handToHand,Hand-to-Hand,强化护甲
-longBlade,Long Blade,提高人才
-missileWeapon,Missile Weapon,良好的代表
-shortBlade,Short Blade,灵魂束缚
-toDisease,To Disease,物品变质
-toFire,To Fire,用户受到伤害
-toFrost,To Frost,视力问题
-toMagic,To Magic,行走问题
-toParalysis,To Paralysis,低伤害对比
-toPoison,To Poison,健康水蛭
-toShock,To Shock,不良反应来自
-intInSpellPoints15,1.5X INT In Spell Points,额外重量
-intInSpellPoints175,1.75X INT In Spell Points,削弱护甲
-intInSpellPoints2,2X INT In Spell Points,坏名声与
-intInSpellPoints3,3X INT In Spell Points,鼠
-intInSpellPoints,INT In Spell Points,小鬼
-general,General,斯普里根
-inDarkness,In Darkness,巨型蝙蝠
-inLight,In Light,大灰熊
-whileImmersed,While Immersed In Water,剑齿虎
-criticalWeakness,Critical Weakness,蜘蛛
-damage,Damage,兽人
-darknessPoweredMagery,Darkness-Powered Magery,半人马座
-forbiddenArmorType,Forbidden Armor Type,狼人
-forbiddenMaterial,Forbidden Material,若虫
-forbiddenShieldTypes,Forbidden Shield Types,屠宰鱼
-forbiddenWeaponry,Forbidden Weaponry,兽人中士
-inabilityToRegen,Inability To Regen Spell Points,鹰身女妖
-lightPoweredMagery,Light-Powered Magery,野猪人
-lowTolerance,Low Tolerance,骷髅战士
-phobia,Phobia,巨大的
-fromHolyPlaces,From Holy Places,僵尸
-fromSunlight,From Sunlight,鬼
-lowerMagicAbilityDaylight,Lower Magic Ability In Daylight,木乃伊
-unableToUseMagicInDaylight,Unable To Use Magic In Daylight,巨蝎
-chain,Chain,兽人萨满
-leather,Leather,石像鬼
-plate,Plate,幽灵
-adamantium,Adamantium,兽人督军
-daedric,Daedric,冰霜魔族
-dwarven,Dwarven,火迪德拉
-ebony,Ebony,戴德罗斯
-elven,Elven,吸血鬼
-iron,Iron,迪德拉诱惑者
-mithril,Mithril,远古吸血鬼
-orcish,Orcish,迪德拉领主
-silver,Silver,巫妖
-steel,Steel,远古巫妖
-buckler,Buckler,小龙
-kiteShield,Kite Shield,火神
-roundShield,Round Shield,铁阿特罗纳克
-towerShield,Tower Shield,肉质阿特罗纳克
-lowerMagicAbilityDarkness,Lower Magic Ability In Darkness,冰阿特罗纳克
-unableToUseMagicInDarkness,Unable To Use Magic In Darkness,马
-helpAttributes,Attributes,小龙
-helpClassName,Class Name,德鲁夫
-helpGeneral,General,拉米亚
-helpReputations,Reputations,法师
-helpSkillAdvancement,Skill Advancement,咒语之剑
-helpSkills,Skills,战斗法师
-helpSpecialAdvantages,Special Advantages,巫师
-helpSpecialDisadvantages,Special Disadvantages,治愈者
-lower,Lower,夜刃
-higher,Higher,诗人
-unchanged,Unchanged,窃贼
-elsweyr,Elsweyr,流氓
-blackMarsh,Black Marsh,杂技演员
-hammerfell,Hammerfell,贼
-highRock,High Rock,刺客
-morrowind,Morrowind,僧
-skyrim,Skyrim,射手
-sumurset,Sumurset,游侠
-valenwood,Valenwood,野蛮人
-rollingHills,rolling hills,战士
-desertLand,desertland,骑士
-mountains,mountains,城市观察
-swamps,swamps,在冬天
-forests,forests,春季期间
-shores,shores,夏季期间
-medical,Medical,秋季期间
-etiquette,Etiquette,满月期间
-streetwise,Streetwise,半月期间
-jumping,Jumping,新月期间
-harpy,Harpy,接近不死族
-giantish,Giantish,迪德拉附近
-dragonish,Dragonish,接近类人生物
-nymph,Nymph,靠近动物
-aedric,Daedric,每时每刻
-spriggan,Spriggan,在阳光下
-centaurian,Centaurian,在黑暗中
-impish,Impish,在范围内
-lockpicking,Lockpicking,当罢工时
-mercantile,Mercantile,额外 25%
-pickpocket,Pickpocket,50% 额外
-stealth,Stealth,听力
-swimming,Swimming,运动能力
-climbing,Climbing,肾上腺素
-backstabbing,Backstabbing,每时每刻
-dodging,Dodging,在阳光下
-running,Running,在圣地
-destruction,Destruction,在阳光下
-restoration,Restoration,在圣地
-illusion,Illusion,不死族
-alteration,Alteration,迪德拉
-thaumaturgy,Thaumaturgy,类人生物
-mysticism,Mysticism,动物
-archery,Archery,每当使用时
-criticalStrike,Critical Strike,除非每天使用
-strength,Strength,除非每周使用
-intelligence,Intelligence,类人生物
-willpower,Willpower,动物
-agility,Agility,迪德拉
-endurance,Endurance,布衣
-personality,Personality,招商
-speed,Speed,学者
-luck,Luck,贵族
-STR,STR,地狱
-INT,INT,全部
-WIL,WIL,您收到 %s 金币。
-AGI,AGI,价格：%s 金币
-END,END,您在 %s 有房间 %d 小时。
-PER,PER,您还没有在这里租过房间。
-SPD,SPD,您在该房间的时间已过。
-LUC,LUC,麦芽酒（1 金）
-breton,Breton,啤酒（1金）
-redguard,Redguard,蜂蜜酒（2金）
-darkElf,Dark Elf,酒（3金）
-highElf,High Elf,面包（1金）
-woodElf,Wood Elf,肉汤（1金）
-khajiit,Khajiit,奶酪（2金）
-argonian,Argonian,鸡（3金）
-vampire,Vampire,粥（2金）
-werewolf,Werewolf,馅饼（2金）
-wereboar,Wereboar,炖菜（3金）
-vraseth,Vraseth,按按钮发射咒语。
-haarvenu,Haarvenu,攀爬模式。
-thrafey,Thrafey,绳降模式。
-lyrezi,Lyrezi,悬挂方式
-montalion,Montalion,急性听力
-khulari,Khulari,肾上腺素
-garlythi,Garlythi,运动精神
-anthotis,Anthotis,击中奖励
-selenu,Selenu,专业知识
-lockedExteriorDoor,Locked.,免疫
-canOnlyCastOncePerDay,Can only be cast once per day...,增加魔法力
-youNeedToHuntTheInnocent,You feel the need to hunt the innocent...,快速治愈
-youDreamOfTheMoon,"You dream, once again, of the moon...",恢复健康
-inventoryWhileShapechanged,You cannot access the inventory while shapechanged...,反抗
-youGetNoResponse,You get no response.,法术吸收
-copyLogbookInfo,Left-click: toggle copy of selected text. Right-click: copy whole current conversation.,动物
-east,east,迪德拉
-northeast,northeast,人形
-north,north,亡灵
-northwest,northwest,斧头
-west,west,钝器
-southwest,southwest,手把手
-south,south,长刀片
-southeast,southeast,导弹武器
-thisPlace,this place,短刀片
-AnyNews,Any news?,对疾病
-WhereAmI,Where am I?,开火
-AnswerTextWhereAmI,You are in {0} in {1}.,到霜冻
-YouAreInSameBuilding,You have found {0}. You are in it.,走向魔法
-NpcInSameBuilding,{0} is around here in {1}.,至瘫痪
-PreviousList,Previous List,毒害
-General,General,震惊
-Regional,Regional,1.5 倍智力法术点数
-Alchemists,Alchemists,1.75X 智力（法术点数）
-Armorers,Armorers,2X INT 法术点数
-Banks,Banks,3X INT 法术点数
-Bookstores,Bookstores,INT 法术点数
-Clothingstores,Clothing stores,一般的
-Gemstores,Gem stores,黑暗中
-Generalstores,General stores,在光明中
-Guilds,Guilds,浸入水中时
-Libraries,Libraries,关键弱点
-Pawnshops,Pawn shops,损害
-Taverns,Taverns,黑暗力量魔法
-Weaponsmiths,Weapon smiths,禁忌铠甲类型
-Localtemples,Local temples,禁用材料
-Sir,Sir,禁忌之盾类型
-Ma'am,Ma'am,禁忌武器
-oldLeaderFate0,died of heart failure,无法恢复法术点
-oldLeaderFate1,fell and struck his head,光能魔法
-oldLeaderFate2,died of the plague,低容忍度
-oldLeaderFate3,stepped down under pressure,恐怖症
-oldLeaderFate4,was overthrown,来自圣地
-oldLeaderFate5,was found murdered in his bed,来自阳光
-toBeReplacedStringRegional,Any,白天魔法能力较低
-replacementStringRegional,any,无法在白天使用魔法
-comma,",  ",链
-resolvingError,...never mind...,皮革
-chameleon,Chameleon,盘子
-charm,Charm,金刚砂
-comprehendLanguages,Comprehend Languages,迪德里克
-continuousDamage,Continuous Damage,矮人
-createItem,Create Item,乌木
-cure,Cure,精灵
-detect,Detect,铁
-disintegrate,Disintegrate,秘银
-dispel,Dispel,兽人语
-drain,Drain,银
-elementalResistance,Elemental Resistance,钢
-fortifyAttribute,Fortify Attribute,圆盾
-freeAction,Free Action,风筝盾
-heal,Heal,圆盾
-identify,Identify,塔盾
-invisibility,Invisibility,黑暗中魔法能力降低
-levitate,Levitate,无法在黑暗中使用魔法
-light,Light,属性
-lock,Lock,班级名称
-morphSelf,Morph Self,一般的
-open,Open,声誉
-pacify,Pacify,技能提升
-paralyze,Paralyze,技能
-regenerate,Regenerate,特殊优势
-shadow,Shadow,特别缺点
-shield,Shield,降低
-silence,Silence,更高
-slowfall,Slowfall,不变
-soulTrap,Soul Trap,埃尔斯韦尔
-spellReflection,Spell Reflection,黑沼泽
-spellResistance,Spell Resistance,落锤省
-teleport,Teleport,高岩
-transfer,Transfer,晨风
-waterBreathing,Water Breathing,天际
-waterWalking,Water Walking,萨默塞特
-fire,Fire,瓦伦伍德
-frost,Frost,连绵起伏的丘陵
-magicka,Magicka,沙漠地区
-poison,Poison,山
-shock,Shock,沼泽
-enemy,Enemy,森林
-magic,Magic,海岸
-treasure,Treasure,医疗的
-fatigue,Fatigue,礼仪
-health,Health,街头智慧
-spellPoints,Spell Points,跳跃
-disease,Disease,鹰身女妖
-paralyzation,Paralyzation,巨人般的
-animal,Animal,龙语
-normal,Normal,若虫
-TRUE,TRUE,迪德里克
-noName,<no-name>,斯普里根
-youDontHaveTheSpellPoints,You don't have the spell points.,半人马座
-youAreSilenced,You are silenced.,顽皮的
-youAreParalyzed,You are paralyzed.,撬锁
-youFeelDrained,You feel drained.,商业
-youAreFortified,You are fortified.,扒手
-youAreInvisible,You are invisible.,隐身
-youAreLevitating,You are levitating.,游泳
-youAreRegenerating,You are regenerating.,攀登
-youAreBlending,You are blending.,背后捅刀子
-youAreAShade,You are a shade.,闪避
-slowFallActive,Slow fall active.,跑步
-saveVersusSpellMade,Save versus spell made.,毁灭
-spellEffectFailed,Spell effect failed.,恢复
-spellAbsorbed,Spell was absorbed.,错觉
-spellReflected,Spell was reflected.,改造
-spellResisted,Spell was resisted.,奇术
-readyToLock,Ready to lock.,神秘主义
-readyToOpen,Ready to open.,射箭
-doorLocked,Door is now locked.,致命一击
-doorAlreadyLocked,Door already locked.,力量
-openFailed,Lock is too powerful.,智力
-noSpellbook,You have no spellbook!,意志
-sunlightDamageFastTravelDay,You cannot initiate fast travel during the day.,敏捷
-trapActive,Trap active.,耐力
-trapHumanoid,Trap will not work on humanoids.,性格
-trapSuccess,Trapped soul.,速度
-trapFail,Trap failed.,运气
-trapNoneEmpty,You have no empty soul traps!,STR
-stamina,Stamina,INT
-orcStrength,Orc Strength,会
-healing,Healing,通用人工智能
-restorePower,Restore Power,结尾
-resistFire,Resist Fire,每
-resistFrost,Resist Frost,SPD
-resistShock,Resist Shock,卢克
-cureDisease,Cure Disease,布列塔尼
-slowFalling,Slow Falling,红卫兵
-healTrue,Heal True,黑暗精灵
-levitation,Levitation,高等精灵
-resistPoison,Resist Poison,木精灵
-curePoison,Cure Poison,虎人
-chameleonForm,Chameleon Form,亚龙人
-shadowForm,Shadow Form,吸血鬼
-purification,Purification,狼人
-LeatherCuirass,Leather Cuirass,野猪人
-LeatherGauntlets,Leather Gauntlets,弗拉塞斯
-LeatherGreaves,Leather Greaves,哈韦努
-LeatherLeftPauldron,Leather Left Pauldron,特拉菲
-LeatherRightPauldron,Leather Right Pauldron,竖琴
-LeatherHelm,Leather Helm,蒙塔利翁
-LeatherBoots,Leather Boots,库拉里
-ChainCuirass,Chain Cuirass,加利西
-ChainGauntlets,Chain Gauntlets,安索蒂斯
-ChainGreaves,Chain Greaves,塞勒努
-ChainLeftPauldron,Chain Left Pauldron,锁定。
-ChainRightPauldron,Chain Right Pauldron,每天只能施放一次...
-ChainHelm,Chain Helm,你觉得有必要追捕无辜者......
-ChainBoots,Chain Boots,你再次梦见月亮......
-SteelCuirass,Steel Cuirass,变形时您无法访问库存...
-SteelGauntlets,Steel Gauntlets,你没有得到任何回应。
-SteelGreaves,Steel Greaves,左键单击：切换所选文本的副本。右键单击：复制整个当前对话。
-SteelLeftPauldron,Steel Left Pauldron,东方
-SteelRightPauldron,Steel Right Pauldron,东北
-SteelHelm,Steel Helm,北
-SteelBoots,Steel Boots,西北
-SteelBuckler,Steel Buckler,西方
-SteelDagger,Steel Dagger,西南
-SteelLongsword,Steel Longsword,南
-SteelStaff,Steel Staff,东南
-ShortBow,Short Bow,这个地方
-Arrows,Arrows,任何新闻？
-SteelBattleAxe,Steel Battle Axe,我在哪里？
-Robes,Robes,您位于{1}中的{0}。
-CastWhenUsed,Cast when used:,您已找到{0}。你就在其中。
-CastWhenHeld,Cast when held:,{0} 位于{1}附近。
-CastWhenStrikes,Cast when strikes:,以前的列表
-ExtraSpellPts,Extra spell pts,一般的
-PotentVs,Potent vs,区域性
-RegensHealth,Regens health,炼金术士
-VampiricEffect,Vampiric effect,军械师
-IncreasedWeightAllowance,Increased Weight Allowance,银行
-RepairsObjects,Repairs objects,书店
-AbsorbsSpells,Absorbs spells,服装店
-EnhancesSkill,Enhances skill,宝石店
-FeatherWeight,Feather Weight,杂货店
-StrengthensArmor,Strengthens armor,行会
-ImprovesTalents,Improves talents,图书馆
-GoodRepWith,Good rep with,当铺
-SoulBound,Soul bound,酒馆
-ItemDeteriorates,Item deteriorates,武器铁匠
-UserTakesDamage,User takes damage,当地寺庙
-VisionProblems,Vision problems,先生
-WalkingProblems,Walking problems,女士
-LowDamageVs,Low damage vs,死于心力衰竭
-HealthLeech,Health leech,跌倒并撞到了他的头
-BadReactionsFrom,Bad reactions from,死于瘟疫
-ExtraWeight,Extra weight,迫于压力下台
-WeakensArmor,Weakens armor,被推翻
-BadRepWith,Bad rep with,被发现在床上被谋杀
-inHolyPlaces,in holy places,任何
-wheneverUsed,whenever used,任何
-unlessUsedDaily,unless used daily,","
-unlessUsedWeekly,unless used weekly,...没关系...
-fromHumanoids,from humanoids,变色龙
-fromAnimals,from animals,魅力
-fromDaedra,from Daedra,理解语言
-duringWinter,during Winter,持续伤害
-duringSpring,during Spring,创建项目
-duringSummer,during Summer,治愈
-duringFall,during Fall,探测
-duringFullMoon,during Full Moon,瓦解
-duringHalfMoon,during Half Moon,打消
-duringNewMoon,during New Moon,流走
-nearUndead,near undead,元素抵抗
-nearDaedra,near deadra,强化属性
-nearHumanoids,near humanoids,自由行动
-nearAnimals,near animals,愈合
-undeadLower,undead,确认
-humanoidLower,humanoid,隐形
-animalsLower,animals,悬浮
-animalsUpper,Animals,光
-allTheTime,all the time,锁
-inSunlight,in sunlight,变形自我
-inDarknessLower,in darkness,打开
-atRange,at range,安抚
-whenStrikes,when strikes,瘫痪
-add25Percent,25% additional,再生
-add50Percent,50% additional,阴影
-hearing,hearing,盾
-athleticismLower,athleticism,安静
-adrenalineRushLower,adrenaline rush,缓降
-commoners,Commoners,灵魂陷阱
-merchants,Merchants,法术反射
-scholars,Scholars,法术抗力
-nobility,Nobility,传送
-underworld,Underworld,转移
-all,All,水呼吸
-noRoomInItem,No room in item...,水上行走
-noEnchantments,You have not prepared enchantments for this item.,火
-noMonstersNearby,There are no monsters nearby.,霜
-Fire,Fire,魔法师
-Frost,Frost,毒
-Poison,Poison,震惊
-Shock,Shock,敌人
-Magicka,Magicka,魔法
-Animal,Animal,宝藏
-Undead,Undead,疲劳
-Humanoid,Humanoid,健康
-Daedra,Daedra,法术点数
-dialogButtonInfo,Switch between: Active Quests; Finished Quests; Notebook; Messages,疾病
-activeQuests,Active Quests,瘫痪
-activeQuestsInfo,Click on an active quest that has a target location to initiate travel.,动物
-finishedQuests,Finished Quests,普通的
-finishedQuestsInfo,Click on an entry to move it. Right click to delete.,真的
-notebook,Notebook,<无名>
-notebookInfo,Click a note to move. Right click to delete. Click in-between to add a new note.,你没有法术点。
-messages,Messages,你沉默了。
-messagesInfo,History of messages recently shown on screen,你瘫痪了。
-confirmMoveHead,Move entry,你感觉筋疲力尽。
-confirmMove,Do you want to change the position of this entry?,你被强化了。
-confirmMove2,(It will be moved to before the next entry clicked),你是隐形的。
-confirmRemoveHead,Delete entry,你正在悬浮。
-confirmRemove,Are you sure you want to remove this entry?,你正在重生。
-confirmRemove2,(It will be deleted permanently and cannot be restored),你正在混合。
-confirmFindHead,Travel to location,你是一个影子。
-confirmFind,Do you want to open the world map to travel to:,缓慢下降活跃。
-confirmFind2,(Note: you can cancel travel from the world map),保存与施法。
-enterNote,Enter your note:,法术效果失败。
-completedQuest,completed,法术被吸收了。
-endedQuest,ended,咒语被反射了。
-finishQuestHeader,{0} {1} at {2}:,法术被抵抗。
-quest,Quest,准备锁定。
-noteHeader,{0} in {1}:,准备打开。
-houseDeed,You obtained the deeds and now own a house in %town of %region.,门现已锁上。
-levelProgress,Progress made to the next level: {0}%,门已经锁上了。
-readMap,Discovered the location of %map after studying a map.,锁太强大了。
-readMapTG,The Thieves Guild have revealed the closely guarded where-abouts of a treasure trove called %map.,你没有魔法书！
-readMapDB,The Dark Brotherhood revealed the secret of some treasure-laden crypts located at somewhere called %map.,您无法在白天开始快速旅行。
-readMapFail,You have already discovered the location shown by this map.,陷阱活跃。
-howManyItems,Pick how many items (max {0})?,陷阱对类人生物不起作用。
-wagonFullGold,Your wagon could only hold {0} gold pieces.,被困的灵魂。
-itemsIdentified,Items identified.,陷阱失败。
-repairDone,DONE,你没有空的灵魂陷阱！
-repairDays,%d days,耐力
-interruptRepair,Take back that item before it's repaired?,兽人力量
-repairNote,Left my {0} for repair at {1}.,康复
-doesntNeedIdentify,This does not need to be identified.,恢复供电
-goldAmount,{0} gold pieces,抵抗火力
-goldWeight,Weight: {0} kg,抗霜冻
-letterOfCredit,You are paid with a letter of credit.,抗冲击
-stealSuccess,You are successful.,治愈疾病
-stealFailure,You are not successful...,缓慢下降
-cannotRemoveItem,You cannot remove this item.,治愈真实
-cannotCarryAnymore,You cannot carry anymore stuff.,悬浮
-cannotHoldAnymore,Your cart cannot hold anymore stuff.,抗毒
-cannotUseThis,You cannot use this.,解毒
-equippingWeapon,Equipping %s,变色龙形态
-lightDouse,You douse the %it.,暗影形态
-lightLight,You light the %it.,纯化
-lightDies,Your %it flickers and dies.,皮革胸甲
-lightEmpty,Your %it has no fuel left.,皮革护手
-lightRefuel,You refuel your %it with a bottle of oil.,皮革护腿
-lightFull,Your %it is full.,皮革左肩甲
-kgSrc,kilograms,皮革右肩甲
-kgRep,kg,皮头盔
-damSrc,points of damage,皮靴
-damRep,damage,链式胸甲
-arSrc,armor rating,链甲手套
-arRep,armor,链甲护腿
-northern,(northern),锁链左肩铠
-southern,(southern),链式右肩铠
-noWagon,You don't own a wagon.,链甲头盔
-exitTooFar,The exit is too far away for you to access your wagon.,链甲靴子
-bookUnavailable,The book is ruined and is now unreadable.,钢胸甲
-unknownAuthor,unknown author,钢手套
-cannotDeleteVamp,Cannot delete special vampire spells.,钢护腿
-cannotDeleteWere,Cannot delete special lycanthropy spell.,钢制左肩铠
-noRecipes,You have no recipes.,钢制右肩铠
-potionMixed,Your potion has been mixed.,钢盔
-potionFailed,Those ingredients did not concoct an effective potion.,钢靴
-reqIngredients,You do not have the ingredients required.,钢圆盾
-region,Region,钢匕首
-account,Account,钢长剑
-loan,Loan,钢杖
-dueDate,Loan Due Date,短弓
-noAccount,None,箭头
-loanReminder,You have a loan of {0} gold pieces due in,钢战斧
-loanReminder2,less than {0} months in {1},长袍
-classicIcons,Classic,使用时施展：
-suggestedIcons,Suggested,举行时演员表：
-serviceMembersOnly,My services are reserved for members only.,攻击时施放：
-serviceDonateHowMuch,Donate how much money : ,额外法术点数
-curedDisease,You are cured.,强效 vs
-freeHolidayCuring,You are cured free from cost due to todays' holiday.,雷根斯健康
-gettingQuests1,"Hmm, let me see what tasks we have available.",吸血鬼效应
-gettingQuests2,"Please have patience and wait here a moment, %pcf.",增加重量限额
-illegalRestWarning,It is illegal to camp in or near a city. Continue?,修复物体
-cannotLoiterMoreThanXHours1,You cannot loiter more,吸收法术
-cannotLoiterMoreThanXHours2,than {0} hours at a time.,增强技能
-automapToolTipTextGridButton,left click: switch between 2D top view and 3D view (hotkey: {0})\rright click: reset rot. axis to player pos (hotkey: {1})\rmouse wheel up while over btn: inc. perspective (only 3D mode)\rmouse wheel down while over btn: dec. perspective (only 3D mode),羽毛重量
-automapToolTipForwardButton,left click: move viewpoint forward (hotkey: {0})\rright click: move rotation axis forward (hotkey: {1}),强化护甲
-automapToolTipBackwardButton,left click: move viewpoint backwards (hotkey: {0})\rright click: move rotation axis backwards (hotkey: {1}),提高人才
-automapToolTipLeftButton,left click: move viewpoint to the left (hotkey: {0})\rright click: move rotation axis to the left (hotkey: {1}),良好的代表
-automapToolTipRightButton,left click: move viewpoint to the right (hotkey: {0})\rright click: move rotation axis to the right (hotkey: {1}),灵魂束缚
-automapToolTipRotateLeftButton,left click: rotate dungeon to the left (hotkey: {0})\rright click: rotate camera to the left (hotkey: {1}),物品变质
-automapToolTipRotateRightButton,left click: rotate dungeon to the right (hotkey: {0})\rright click: rotate camera to the right (hotkey: {1}),用户受到伤害
-automapToolTipUpstairsButton,left click: increase viewpoint (hotkey: {0})\rright click: increase slice level (hotkey: {1})\rslice level can also be adjusted by holding down middle mouse btn\r\rhint: different render modes may show hidden geometry:\rhotkey {2}: cutout mode\rhotkey {3}: wireframe mode\rhotkey {4}: transparent mode\rswitch between modes with return key\r,视力问题
-automapToolTipDownstairsButton,left click: decrease viewpoint (hotkey: {0})\rright click: decrease slice level (hotkey: {1})\rslice level can also be adjusted by holding down middle mouse btn\r\rhint: different render modes may show hidden geometry:\rhotkey {2}: cutout mode\rhotkey {3}: wireframe mode\rhotkey {4}: transparent mode\rswitch between modes with return key\r,行走问题
-automapToolTipPanelCompass,"left click: toggle focus (hotkey: {0})\rbeacons: red ... player, green ... entrance, blue ... rotation axis\r\rright click: reset view (hotkey: {1})\r\rdouble-click left mouse btn in window to create+edit marker note\rdouble-click left mouse btn (+Ctrl key) in window to create marker\rdouble-click left mouse btn on a marker to add/edit a note\rdouble-click right mouse btn on a marker to delete it\rdouble-click right mouse btn in window to position rotation axis\rdouble-click middle mouse btn in window to center view\rdouble-click left mouse btn on discovered portal marker to jump\rto connected teleporter portal",低伤害对比
-automapPlayerPositionBeacon,player position beacon,健康水蛭
-automapRotationPivotAxis,rotation pivot axis,不良反应来自
-automapEntranceExitPositionBeacon,entrance/exit position beacon,额外重量
-automapEntranceExit,entrance/exit,削弱护甲
-automapPlayerMarker,player marker,坏名声与
-automapTeleporterEntrance,teleporter (entrance),在圣地
-automapTeleporterExit,teleporter (exit),每当使用时
-exteriorAutomapBuildingTypeAlchemist,Alchemist,除非每天使用
-exteriorAutomapBuildingTypeArmorer,Armorer,除非每周使用
-exteriorAutomapBuildingTypeBank,Bank,来自类人生物
-exteriorAutomapBuildingTypeBookseller,Bookseller,来自动物
-exteriorAutomapBuildingTypeClothingStore,Clothing Store,来自迪德拉
-exteriorAutomapBuildingTypeFurnitureStore,Furniture Store,在冬天
-exteriorAutomapBuildingTypeGemStore,Gem Store,春季期间
-exteriorAutomapBuildingTypeGeneralStore,General Store,夏季期间
-exteriorAutomapBuildingTypeGuildHall,Guild Hall,秋季期间
-exteriorAutomapBuildingTypeHouseForSale,HouseForSale,满月期间
-exteriorAutomapBuildingTypeLibrary,Library,半月期间
-exteriorAutomapBuildingTypePalace,Palace,新月期间
-exteriorAutomapBuildingTypePawnShop,Pawn Shop,接近不死族
-exteriorAutomapBuildingTypeTavern,Tavern,迪德拉附近
-exteriorAutomapBuildingTypeTemple,Temple,接近类人生物
-exteriorAutomapBuildingTypeWeaponSmith,Weapon Smith,靠近动物
-exteriorAutomapBuildingTypeUnknown,Unknown,不死族
-exteriorAutomapToolTipTextGridButton,"left click: switch to next view mode (hotkey: {0})\ravailable view modes are:\r- original (hotkey {1})\r- extra: includes extra buildings (hotkey {2})\r- all: includes extra buildings, ground flats (hotkey {3})\rswitch background texture with {4}, {5}, {6}, {7}",人形生物
-exteriorAutomapToolTipForwardButton,left click: move up (hotkey: {0})\rright click: move to north location border (hotkey: {1}),动物
-exteriorAutomapToolTipBackwardButton,left click: move down (hotkey: {0})\rright click: move to south location border (hotkey: {1}),动物
-exteriorAutomapToolTipLeftButton,left click: move to the left (hotkey: {0})\rright click: move to west location border (hotkey: {1}),每时每刻
-exteriorAutomapToolTipRightButton,left click: move to the right (hotkey: {0})\rright click: move to east location border (hotkey: {1}),在阳光下
-exteriorAutomapToolTipRotateLeftButton,left click: rotate map to the left (hotkey: {0})\rright click: rotate map around the player position\rto the left  (hotkey: {1}),在黑暗中
-exteriorAutomapToolTipRotateRightButton,left click: rotate map to the right (hotkey: {0})\rright click: rotate map around the player position\rto the right (hotkey: {1}),在范围内
-exteriorAutomapToolTipUpstairsButton,left click: zoom in (hotkey: {0})\rright click: apply maximum zoom),当罢工时
-exteriorAutomapToolTipDownstairsButton,left click: zoom out (hotkey: {0}\rright click: apply minimum zoom),额外 25%
-exteriorAutomapToolTipPanelCompass,left click: focus player position (hotkey: {0})\rright click: reset view (hotkey: {1}),50% 额外
-loading,Please wait...,听力
-classicSave,Classic,运动能力
-cancel,Cancel,肾上腺素
-renameSave,Rename,布衣
-deleteSave,Delete,招商
-switchChar,Switch Char,学者
-savePrompt,Save Game,贵族
-loadPrompt,Load Game,地狱
-saveButton,Save,全部
-loadButton,Load,物品中没有空间...
-enterSaveName,Enter save name,您还没有为该物品准备附魔。
-selectSaveName,Select a save,附近没有怪物。
-confirmDeleteSave,Are you sure you want to delete save?,火
-confirmOverwriteSave,Overwrite this save?,霜
-youMustEnterASaveName,You must enter a save name.,毒
-youMustSelectASaveName,You must select a save name.,震惊
-noSavesFound,No saves found. Load a Classic save?,魔法师
-cannotSaveNow,You cannot save now.,动物
-addEffect,Add effect,亡灵
-buySpell,Buy spell,人形
-newSpell,New spell,迪德拉
-exit,Exit,切换：活动任务；已完成的任务；笔记本;留言
-casterOnly,Caster only,主动任务
-byTouch,By touch,单击具有目标位置的活动任务即可开始旅行。
-singleTargetAtRange,Single target at range,已完成的任务
-areaAroundCaster,Area around caster,单击一个条目即可移动它。右键单击即可删除。
-areaAtRange,Area at range,笔记本
-fireBased,Fire based,单击要移动的注释。右键单击即可删除。单击中间添加新注释。
-coldBased,Cold based,留言
-poisonBased,Poison based,屏幕上最近显示的消息历史记录
-shockBased,Shock based,移动条目
-magicBased,Magic based,您想更改此条目的位置吗？
-selectIcon,Select icon,（它将移至单击下一个条目之前）
-nextIcon,Next icon,删除条目
-previousIcon,Previous icon,您确定要删除此条目吗？
-nameSpell,Name spell,（将被永久删除且无法恢复）
-enterSpellName,Enter spell name :,前往地点
-noEffectsError,You must add at least one effect to this spell.,您想打开世界地图前往：
-deleteSpell,Do you want to delete this spell?,（注：您可以从世界地图取消旅行）
-sortSpells,Do you want to sort spells?,输入您的备注：
-effectNotFoundError,<effect not found>,完全的
-noItemToActivate,You have no usable magic item,结束了
-Akatosh,Akatosh,{0} {1}，{2}：
-Arkay,Arkay,寻求
-Dibella,Dibella,{1} 中的 {0}：
-Julianos,Julianos,您获得了契约，现在在 %region 的 %town 拥有一所房子。
-Kynareth,Kynareth,达到下一级别的进度：{0}%
-Mara,Mara,研究地图后发现%map的位置。
-Stendarr,Stendarr,盗贼公会透露了一个被严密守护的名为 %map 的宝库的下落。
-Zenithar,Zenithar,黑暗兄弟会揭露了位于 %map 某个地方的一些藏宝地穴的秘密。
-removeKeybind,Are you sure you want to remove the keybind for {0} ('{1}')?,您已经发现了这张地图所示的位置。
-nord,Nord,选择多少个项目（最多 {0} 个）？
-settingsNotApplied,Note: Some changes may not be applied until you restart the game.,您的马车只能容纳 {0} 个金币。
-doneButton,Done,已识别的项目。
-temple,temple,完毕
-unknownPowers,Unknown Powers,%d 天
-cannotBeRepaired,This cannot be repaired.,在修复之前收回该物品？
-youNeverAwaken,You never awaken.,将我的 {0} 留在 {1} 进行维修。
-modSettings,Mod Settings,这个不需要鉴定。
-gameEffectsSettings,Effect Settings,{0} 金币
-antialiasing,Antialiasing,重量：{0}公斤
-ambientOcclusion,Ambient Occlusion,您通过信用证付款。
-bloom,Bloom,你成功了。
-motionBlur,Motion Blur,你没有成功...
-vignette,Vignette,您无法删除该项目。
-depthOfField,Depth of Field,你不能再携带任何东西了。
-antialiasingTip,Give a smoother appearance,您的购物车无法再容纳任何东西。
-enable,Enable,你不能使用这个。
-fxaa,FXAA,正在装备%s
-smaa,SMAA,你浇灭%it。
-taa,TAA,你点燃%it。
-none,None,你的 %it 闪烁然后消失。
-method,Method,你的%it没有剩余燃料了。
-fxaaFastMode,FXAA Fast Mode,你用一瓶油给你的%it加油。
-low,Low,您的 %it 已满。
-medium,Medium,公斤
-high,High,公斤
-smaaQuality,SMAA Quality,损坏点
-taaSharpness,TAA Sharpness,损害
-disabled,Disabled,装甲等级
-setPageDefaults,Set Page Defaults,盔甲
-ambientOcclusionTip,Darkens creases and holes,（北方）
-scalableAmbientObscurance,Scalable Ambient Obscurance,（南部）
-multiScaleVolumetricObscurance,Multi Scale Volumetric Obscurance,你没有马车。
-scalableAmbient,Scalable Ambient,出口太远，您无法进入马车。
-multiScaleVolumetric,MultiScale Volumetric,该书已毁，现已无法阅读。
-intensity,Intensity,作者不详
-lowest,Lowest,无法删除特殊的吸血鬼法术。
-ultra,Ultra,无法删除特殊的狼人法术。
-radius,Radius,你没有食谱。
-quality,Quality,你的药水已经混合好了。
-thickness,Thickness,那些材料并没有炼制出有效的药剂。
-bloomTip,Make bright areas glow,您没有所需的成分。
-threshold,Threshold,地区
-diffusion,Diffusion,帐户
-bloomFastMode,Bloom fast mode,贷款
-motionBlurTip,Simulates objects moving faster than camera exposure,贷款到期日
-shutterAngle,Shutter Angle,没有任何
-sampleCount,Sample Count,您有一笔 {0} 金币的贷款，到期日为
-vignetteTip,Darken towards the edges of screen,{1} 内不到 {0} 个月
-smoothness,Smoothness,经典的
-roundness,Roundness,建议
-rounded,Rounded,我的服务仅供会员使用。
-depthOfFieldTip,Simulates focus of camera lens,捐多少钱：
-focusDistance,Focus Distance,你痊愈了。
-aperture,Aperture,由于今天放假，您可以免费接受治疗。
-focalLength,Focal Length,嗯，让我看看我们有哪些任务。
-maxBlurSize,Max Blur Size,请耐心等待，%pcf。
-small,Small,在城市内或城市附近露营是违法的。继续？
-large,Large,你不能再闲逛
-veryLarge,Very Large,一次超过 {0} 小时。
-ditherTip,Apply noise to reduce large-scale patterns like color banding,左键单击：在 2D 顶视图和 3D 视图之间切换（热键：{0}）\r右键单击：重置旋转。轴到玩家位置（热键：{1}）\r鼠标滚轮在 btn 上时向上：inc。透视（仅限 3D 模式）\r 在 btn 上滚动鼠标滚轮：dec。透视（仅限 3D 模式）
-dither,Dither,左键单击：向前移动视点（热键：{0}）\r右键单击：向前移动旋转轴（热键：{1}）
-colorBoost,ColorBoost,左键单击：向后移动视点（热键：{0}）\r右键单击：向后移动旋转轴（热键：{1}）
-colorBoostTip,Brightens colors near camera,左键单击：将视点向左移动（热键：{0}）\r右键单击：将旋转轴向左移动（热键：{1}）
-dungeonScale,Dungeon Scale,左键单击：将视点向右移动（热键：{0}）\r右键单击：将旋转轴向右移动（热键：{1}）
-interiorScale,Interior Scale,左键单击：向左旋转地牢（热键：{0}）\r右键单击：向左旋转相机（热键：{1}）
-exteriorScale,Exterior Scale,左键单击：向右旋转地牢（热键：{0}）\r右键单击：向右旋转相机（热键：{1}）
-dungeonFalloff,Dungeon Falloff,左键单击：增加视点（热键：{0}）\r右键单击：增加切片级别（热键：{1}）\r也可以通过按住鼠标中键 btn\r\rhint 来调整切片级别\r\rhint：不同的渲染模式可能会显示隐藏几何:\rhotkey {2}：剪切模式\rhotkey {3}：线框模式\rhotkey {4}：透明模式\r使用返回键在模式之间切换\r
-retroMode,Retro Mode,左键单击：减小视点（热键：{0}）\r右键单击：减小切片级别（热键：{1}）\r也可以通过按住鼠标中键 btn\r\rhint 来调整切片级别\r\rhint：不同的渲染模式可能会显示隐藏几何:\rhotkey {2}：剪切模式\rhotkey {3}：线框模式\rhotkey {4}：透明模式\r使用返回键在模式之间切换\r
-retroModeTip,Renders world at lower resolutions,左键单击：切换焦点（热键：{0}）\r信标：红色...玩家，绿色...入口，蓝色...旋转轴\r\r右键单击：重置视图（热键：{1}）\r \r在窗口中双击鼠标左键以创建+编辑标记注释\r在窗口中双击鼠标左键（+Ctrl 键）以创建标记\r在标记上双击鼠标左键以添加/编辑注释\r双- 在标记上单击鼠标右键将其删除\r在窗口中双击鼠标右键以定位旋转轴\r在窗口中双击鼠标中键以居中视图\r在发现的门户标记上双击鼠标左键以跳转\ rto 连接传送门
-mode,Mode,玩家位置信标
-retroModeOff,Off,旋转枢轴
-retroMode320x200,320x200,入口/出口位置信标
-retroMode640x400,640x400,入口/出口
-off,Off,玩家标记
-posterizationFull,Posterization (full),传送器（入口）
-posterizationMinusSky,Posterization (-sky),传送器（出口）
-palettizationFull,Palettization (full),炼金术士
-palettizationMinusSky,Palettization (-sky),军械师
-postProcess,Postprocess,银行
-retroModeAspectCorrection,Aspect Ratio Correction,书商
-FourThree,4:03,服装店
-SixteenTen,16:10,家具店
-notEnoughSpellpointsLeft,You do not have enough spell points left.,宝石店
-totalIdentified,{0} out of {1} identified.,杂货店
-dispelMagicSuccess,Dispel magic was a success...,会馆
-dispelMagicFailed,Dispel magic failed...,房子出售
-smallerDungeonsChanged,Smaller dungeons changed while inside dungeon. Moving player to dungeon exit.,图书馆
-youNote,You note: ,宫
-customName,Custom name: ,当铺
+All","平民 
+ 商人 
+ 学者 
+ 贵族 
+ 地狱 
+ 全部"
+youReceiveGoldPieces,You receive %s gold pieces.,您会收到％s金片。
+bankPurchasePrice,Price : %s gold,价格：％s黄金
+youHaveRentedRoom,You have a room at %s for %d hours.,您的房间为％s，持续％D小时。
+haveNotRentedRoom,You have not rented a room here.,您没有在这里租一个房间。
+expiredRentedRoom,Your time for this room has expired.,您在这个房间的时间已经过期。
+tavernAle,Ale (1 gold),啤酒（1金）
+tavernBeer,Beer (1 gold),啤酒（1金）
+tavernMead,Mead (2 gold),米德（2金）
+tavernWine,Wine (3 gold),葡萄酒（3金）
+tavernBread,Bread (1 gold),面包（1金）
+tavernBroth,Broth (1 gold),汤（1金）
+tavernCheese,Cheese (2 gold),奶酪（2金）
+tavernFowl,Fowl (3 gold),家禽（3金）
+tavernGruel,Gruel (2 gold),肮脏（2金）
+tavernPie,Pie (2 gold),派（2金）
+tavernStew,Stew (3 gold),炖（3金）
+pressButtonToFireSpell,Press button to fire spell.,按按钮进行射击法术。
+climbingMode,Climbing mode.,攀登模式。
+rappelMode,Rappel mode.,拼图模式。
+hangingMode,Hanging Mode,悬挂模式
+acuteHearing,Acute Hearing,急性听力
+adrenalineRush,Adrenaline Rush,肾上腺素
+athleticism,Athleticism,运动能力
+bonusToHit,Bonus to hit,奖金命中
+expertiseIn,Expertise in,专业知识
+immunity,Immunity,免疫
+increasedMagery,Increased Magery,魔术师增加
+rapidHealing,Rapid Healing,快速康复
+regenerateHealth,Regenerate Health,再生健康
+resistance,Resistance,反抗
+spellAbsorption,Spell Absorption,拼写吸收
+animals,Animals,动物
+daedra,Daedra,达德拉
+humanoid,Humanoid,人形生物
+undead,Undead,亡灵
+axe,Axe,斧头
+bluntWeapon,Blunt Weapon,钝武器
+handToHand,Hand-to-Hand,手把手
+longBlade,Long Blade,长刀片
+missileWeapon,Missile Weapon,导弹武器
+shortBlade,Short Blade,短刀片
+toDisease,To Disease,疾病
+toFire,To Fire,开火
+toFrost,To Frost,弗罗斯特
+toMagic,To Magic,魔术
+toParalysis,To Paralysis,瘫痪
+toPoison,To Poison,毒
+toShock,To Shock,震惊
+intInSpellPoints15,1.5X INT In Spell Points,1.5倍的咒语点
+intInSpellPoints175,1.75X INT In Spell Points,1.75x INT咒语点
+intInSpellPoints2,2X INT In Spell Points,2x int咒语点
+intInSpellPoints3,3X INT In Spell Points,咒语点3x int
+intInSpellPoints,INT In Spell Points,INT咒语点
+general,General,一般的
+inDarkness,In Darkness,在黑暗中
+inLight,In Light,在光明中
+whileImmersed,While Immersed In Water,浸入水中
+criticalWeakness,Critical Weakness,批判性弱点
+damage,Damage,损害
+darknessPoweredMagery,Darkness-Powered Magery,黑暗驱动的魔术
+forbiddenArmorType,Forbidden Armor Type,禁止装甲类型
+forbiddenMaterial,Forbidden Material,禁止材料
+forbiddenShieldTypes,Forbidden Shield Types,禁止盾牌类型
+forbiddenWeaponry,Forbidden Weaponry,禁止武器
+inabilityToRegen,Inability To Regen Spell Points,无法再生咒语点
+lightPoweredMagery,Light-Powered Magery,轻度魔术
+lowTolerance,Low Tolerance,低公差
+phobia,Phobia,恐怖症
+fromHolyPlaces,From Holy Places,来自圣地
+fromSunlight,From Sunlight,来自阳光
+lowerMagicAbilityDaylight,Lower Magic Ability In Daylight,降低白天的魔术能力
+unableToUseMagicInDaylight,Unable To Use Magic In Daylight,无法在白天使用魔术
+chain,Chain,链
+leather,Leather,皮革
+plate,Plate,盘子
+adamantium,Adamantium,金刚雄
+daedric,Daedric,Daedric
+dwarven,Dwarven,矮人
+ebony,Ebony,乌木
+elven,Elven,精灵
+iron,Iron,铁
+mithril,Mithril,密特里
+orcish,Orcish,orcish
+silver,Silver,银
+steel,Steel,钢
+buckler,Buckler,巴克勒
+kiteShield,Kite Shield,风筝盾
+roundShield,Round Shield,圆形盾牌
+towerShield,Tower Shield,塔盾
+lowerMagicAbilityDarkness,Lower Magic Ability In Darkness,降低黑暗中的魔术能力
+unableToUseMagicInDarkness,Unable To Use Magic In Darkness,无法在黑暗中使用魔法
+helpAttributes,Attributes,属性
+helpClassName,Class Name,班级名称
+helpGeneral,General,一般的
+helpReputations,Reputations,声誉
+helpSkillAdvancement,Skill Advancement,技能进步
+helpSkills,Skills,技能
+helpSpecialAdvantages,Special Advantages,特殊优势
+helpSpecialDisadvantages,Special Disadvantages,特殊缺点
+lower,Lower,降低
+higher,Higher,更高
+unchanged,Unchanged,不变
+elsweyr,Elsweyr,Elsweyr
+blackMarsh,Black Marsh,黑沼泽
+hammerfell,Hammerfell,Hammerfell
+highRock,High Rock,高岩
+morrowind,Morrowind,凌晨
+skyrim,Skyrim,天际
+sumurset,Sumurset,sumurset
+valenwood,Valenwood,瓦伦伍德
+rollingHills,rolling hills,连绵起伏的丘陵
+desertLand,desertland,沙漠世界
+mountains,mountains,山
+swamps,swamps,沼泽
+forests,forests,森林
+shores,shores,海岸
+medical,Medical,医疗的
+etiquette,Etiquette,礼仪
+streetwise,Streetwise,街头
+jumping,Jumping,跳跃
+harpy,Harpy,哈皮
+giantish,Giantish,巨型
+dragonish,Dragonish,龙
+nymph,Nymph,若虫
+aedric,Daedric,Daedric
+spriggan,Spriggan,斯普里格根
+centaurian,Centaurian,百万富翁
+impish,Impish,势头
+lockpicking,Lockpicking,锁定
+mercantile,Mercantile,商业
+pickpocket,Pickpocket,扒手
+stealth,Stealth,隐身
+swimming,Swimming,游泳
+climbing,Climbing,攀登
+backstabbing,Backstabbing,背刺
+dodging,Dodging,躲避
+running,Running,跑步
+destruction,Destruction,破坏
+restoration,Restoration,恢复
+illusion,Illusion,错觉
+alteration,Alteration,改造
+thaumaturgy,Thaumaturgy,thaumaturgy
+mysticism,Mysticism,神秘主义
+archery,Archery,射箭
+criticalStrike,Critical Strike,致命一击
+strength,Strength,力量
+intelligence,Intelligence,智力
+willpower,Willpower,意志
+agility,Agility,敏捷
+endurance,Endurance,耐力
+personality,Personality,性格
+speed,Speed,速度
+luck,Luck,运气
+STR,STR,str
+INT,INT,int
+WIL,WIL,会
+AGI,AGI,Agi
+END,END,结尾
+PER,PER,每
+SPD,SPD,SPD
+LUC,LUC,卢克
+breton,Breton,布雷顿
+redguard,Redguard,红人
+darkElf,Dark Elf,黑精灵
+highElf,High Elf,高精灵
+woodElf,Wood Elf,木精灵
+khajiit,Khajiit,khajiit
+argonian,Argonian,氩气
+vampire,Vampire,吸血鬼
+werewolf,Werewolf,狼人
+wereboar,Wereboar,船
+vraseth,Vraseth,弗拉塞斯
+haarvenu,Haarvenu,Haarvenu
+thrafey,Thrafey,Thrafey
+lyrezi,Lyrezi,七弦琴
+montalion,Montalion,蒙塔利翁
+khulari,Khulari,库拉利
+garlythi,Garlythi,加莱西
+anthotis,Anthotis,Anthotis
+selenu,Selenu,塞勒努
+lockedExteriorDoor,Locked.,锁定。
+canOnlyCastOncePerDay,Can only be cast once per day...,每天只能施放一次...
+youNeedToHuntTheInnocent,You feel the need to hunt the innocent...,您认为有必要狩猎无辜的...
+youDreamOfTheMoon,"You dream, once again, of the moon...",你再次梦想着月亮...
+inventoryWhileShapechanged,You cannot access the inventory while shapechanged...,您无法访问库存时...
+youGetNoResponse,You get no response.,您没有任何回应。
+copyLogbookInfo,Left-click: toggle copy of selected text. Right-click: copy whole current conversation.,左键单击：切换选定文本的副本。 右键单击：复制整个当前对话。
+east,east,东方
+northeast,northeast,东北
+north,north,北
+northwest,northwest,西北
+west,west,西方
+southwest,southwest,西南
+south,south,南
+southeast,southeast,东南
+thisPlace,this place,这个地方
+AnyNews,Any news?,任何新闻？
+WhereAmI,Where am I?,我在哪里？
+AnswerTextWhereAmI,You are in {0} in {1}.,您在{1}中的{0}中。
+YouAreInSameBuilding,You have found {0}. You are in it.,您找到了{0}。 你在里面。
+NpcInSameBuilding,{0} is around here in {1}.,{0}在{1}中在这里。
+PreviousList,Previous List,上一个列表
+General,General,一般的
+Regional,Regional,区域
+Alchemists,Alchemists,炼金术士
+Armorers,Armorers,装甲
+Banks,Banks,银行
+Bookstores,Bookstores,书店
+Clothingstores,Clothing stores,服装店
+Gemstores,Gem stores,宝石商店
+Generalstores,General stores,一般商店
+Guilds,Guilds,公会
+Libraries,Libraries,库
+Pawnshops,Pawn shops,典当商店
+Taverns,Taverns,小酒馆
+Weaponsmiths,Weapon smiths,武器史密斯
+Localtemples,Local temples,当地的寺庙
+Sir,Sir,先生
+Ma'am,Ma'am,女士
+oldLeaderFate0,died of heart failure,死于心力衰竭
+oldLeaderFate1,fell and struck his head,摔倒
+oldLeaderFate2,died of the plague,死于瘟疫
+oldLeaderFate3,stepped down under pressure,在压力下辞职
+oldLeaderFate4,was overthrown,被推翻了
+oldLeaderFate5,was found murdered in his bed,被发现在他的床上被谋杀
+toBeReplacedStringRegional,Any,任何
+replacementStringRegional,any,任何
+comma,",  ",，，，，
+resolvingError,...never mind...,...没关系...
+chameleon,Chameleon,变色龙
+charm,Charm,魅力
+comprehendLanguages,Comprehend Languages,理解语言
+continuousDamage,Continuous Damage,连续损坏
+createItem,Create Item,创建项目
+cure,Cure,治愈
+detect,Detect,探测
+disintegrate,Disintegrate,瓦解
+dispel,Dispel,打消
+drain,Drain,流走
+elementalResistance,Elemental Resistance,元素阻力
+fortifyAttribute,Fortify Attribute,强化属性
+freeAction,Free Action,免费动作
+heal,Heal,愈合
+identify,Identify,确认
+invisibility,Invisibility,隐形
+levitate,Levitate,悬浮
+light,Light,光
+lock,Lock,锁
+morphSelf,Morph Self,变形自我
+open,Open,打开
+pacify,Pacify,安抚
+paralyze,Paralyze,瘫痪
+regenerate,Regenerate,再生
+shadow,Shadow,阴影
+shield,Shield,盾
+silence,Silence,安静
+slowfall,Slowfall,慢速降落
+soulTrap,Soul Trap,灵魂陷阱
+spellReflection,Spell Reflection,咒语反射
+spellResistance,Spell Resistance,咒语阻力
+teleport,Teleport,传送
+transfer,Transfer,转移
+waterBreathing,Water Breathing,水呼吸
+waterWalking,Water Walking,水走
+fire,Fire,火
+frost,Frost,霜
+magicka,Magicka,玛吉卡
+poison,Poison,毒
+shock,Shock,震惊
+enemy,Enemy,敌人
+magic,Magic,魔法
+treasure,Treasure,宝藏
+fatigue,Fatigue,疲劳
+health,Health,健康
+spellPoints,Spell Points,咒语点
+disease,Disease,疾病
+paralyzation,Paralyzation,瘫痪
+animal,Animal,动物
+normal,Normal,普通的
+TRUE,TRUE,真的
+noName,<no-name>,<noname>
+youDontHaveTheSpellPoints,You don't have the spell points.,您没有咒语点。
+youAreSilenced,You are silenced.,你很沉默。
+youAreParalyzed,You are paralyzed.,你瘫痪了。
+youFeelDrained,You feel drained.,你感到筋疲力尽。
+youAreFortified,You are fortified.,你很强化。
+youAreInvisible,You are invisible.,你是看不见的。
+youAreLevitating,You are levitating.,你在悬浮。
+youAreRegenerating,You are regenerating.,您正在再生。
+youAreBlending,You are blending.,你正在融合。
+youAreAShade,You are a shade.,你是阴影。
+slowFallActive,Slow fall active.,慢速跌落活跃。
+saveVersusSpellMade,Save versus spell made.,保存与法术。
+spellEffectFailed,Spell effect failed.,法术效果失败。
+spellAbsorbed,Spell was absorbed.,咒语被吸收。
+spellReflected,Spell was reflected.,咒语反映了。
+spellResisted,Spell was resisted.,咒语被抵抗。
+readyToLock,Ready to lock.,准备锁定。
+readyToOpen,Ready to open.,准备打开。
+doorLocked,Door is now locked.,门现在被锁定了。
+doorAlreadyLocked,Door already locked.,门已经锁定了。
+openFailed,Lock is too powerful.,锁太强大了。
+noSpellbook,You have no spellbook!,你没有咒语书！
+sunlightDamageFastTravelDay,You cannot initiate fast travel during the day.,您不能在白天开始快速旅行。
+trapActive,Trap active.,陷阱活动。
+trapHumanoid,Trap will not work on humanoids.,陷阱对人形生物不起作用。
+trapSuccess,Trapped soul.,被困的灵魂。
+trapFail,Trap failed.,陷阱失败。
+trapNoneEmpty,You have no empty soul traps!,你没有空的灵魂陷阱！
+stamina,Stamina,耐力
+orcStrength,Orc Strength,兽人的力量
+healing,Healing,康复
+restorePower,Restore Power,恢复功率
+resistFire,Resist Fire,抵抗火
+resistFrost,Resist Frost,抵抗霜
+resistShock,Resist Shock,抵抗冲击
+cureDisease,Cure Disease,治愈疾病
+slowFalling,Slow Falling,慢慢下降
+healTrue,Heal True,治愈真实
+levitation,Levitation,悬浮
+resistPoison,Resist Poison,抵抗毒药
+curePoison,Cure Poison,治愈毒药
+chameleonForm,Chameleon Form,变色龙形式
+shadowForm,Shadow Form,阴影形式
+purification,Purification,纯化
+LeatherCuirass,Leather Cuirass,皮革胸衣
+LeatherGauntlets,Leather Gauntlets,皮革手套
+LeatherGreaves,Leather Greaves,皮革
+LeatherLeftPauldron,Leather Left Pauldron,皮革左Pauldron
+LeatherRightPauldron,Leather Right Pauldron,皮革右Pauldron
+LeatherHelm,Leather Helm,皮头
+LeatherBoots,Leather Boots,皮靴
+ChainCuirass,Chain Cuirass,连锁店
+ChainGauntlets,Chain Gauntlets,连锁手套
+ChainGreaves,Chain Greaves,链条
+ChainLeftPauldron,Chain Left Pauldron,连锁店离开了保尔德隆
+ChainRightPauldron,Chain Right Pauldron,连锁右Pauldron
+ChainHelm,Chain Helm,链舵
+ChainBoots,Chain Boots,连锁靴
+SteelCuirass,Steel Cuirass,钢制胸衣
+SteelGauntlets,Steel Gauntlets,钢制手套
+SteelGreaves,Steel Greaves,钢制
+SteelLeftPauldron,Steel Left Pauldron,钢铁左Pauldron
+SteelRightPauldron,Steel Right Pauldron,钢右Pauldron
+SteelHelm,Steel Helm,钢铁头盔
+SteelBoots,Steel Boots,钢靴
+SteelBuckler,Steel Buckler,钢巴克勒
+SteelDagger,Steel Dagger,钢匕首
+SteelLongsword,Steel Longsword,钢长剑
+SteelStaff,Steel Staff,钢铁人员
+ShortBow,Short Bow,短弓
+Arrows,Arrows,箭头
+SteelBattleAxe,Steel Battle Axe,钢战斧
+Robes,Robes,长袍
+CastWhenUsed,Cast when used:,使用时铸造：
+CastWhenHeld,Cast when held:,举行时铸造：
+CastWhenStrikes,Cast when strikes:,罢工时铸造：
+ExtraSpellPts,Extra spell pts,额外的咒语pts
+PotentVs,Potent vs,有效与
+RegensHealth,Regens health,加入健康
+VampiricEffect,Vampiric effect,吸血鬼效应
+IncreasedWeightAllowance,Increased Weight Allowance,增加体重津贴
+RepairsObjects,Repairs objects,维修对象
+AbsorbsSpells,Absorbs spells,吸收法术
+EnhancesSkill,Enhances skill,提高技能
+FeatherWeight,Feather Weight,羽毛重量
+StrengthensArmor,Strengthens armor,加强盔甲
+ImprovesTalents,Improves talents,提高才能
+GoodRepWith,Good rep with,好代表
+SoulBound,Soul bound,灵魂束缚
+ItemDeteriorates,Item deteriorates,项目恶化
+UserTakesDamage,User takes damage,用户受到损害
+VisionProblems,Vision problems,视力问题
+WalkingProblems,Walking problems,步行问题
+LowDamageVs,Low damage vs,低伤害与
+HealthLeech,Health leech,健康水ech
+BadReactionsFrom,Bad reactions from,不良反应
+ExtraWeight,Extra weight,额外的重量
+WeakensArmor,Weakens armor,削弱盔甲
+BadRepWith,Bad rep with,不好的代表
+inHolyPlaces,in holy places,在圣地
+wheneverUsed,whenever used,每当使用时
+unlessUsedDaily,unless used daily,除非每天使用
+unlessUsedWeekly,unless used weekly,除非每周使用
+fromHumanoids,from humanoids,来自人形生物
+fromAnimals,from animals,来自动物
+fromDaedra,from Daedra,来自达德拉
+duringWinter,during Winter,在冬天
+duringSpring,during Spring,春季
+duringSummer,during Summer,在夏天
+duringFall,during Fall,秋天
+duringFullMoon,during Full Moon,在满月期间
+duringHalfMoon,during Half Moon,在半月期间
+duringNewMoon,during New Moon,在新月期间
+nearUndead,near undead,近年
+nearDaedra,near deadra,在Deadra附近
+nearHumanoids,near humanoids,靠近人形生物
+nearAnimals,near animals,近动物
+undeadLower,undead,亡灵
+humanoidLower,humanoid,人形生物
+animalsLower,animals,动物
+animalsUpper,Animals,动物
+allTheTime,all the time,每时每刻
+inSunlight,in sunlight,在阳光下
+inDarknessLower,in darkness,在黑暗中
+atRange,at range,在范围
+whenStrikes,when strikes,当罢工时
+add25Percent,25% additional,额外25％
+add50Percent,50% additional,额外50％
+hearing,hearing,听力
+athleticismLower,athleticism,运动能力
+adrenalineRushLower,adrenaline rush,肾上腺素
+commoners,Commoners,平民
+merchants,Merchants,商人
+scholars,Scholars,学者
+nobility,Nobility,贵族
+underworld,Underworld,地狱
+all,All,全部
+noRoomInItem,No room in item...,物品中没有空间...
+noEnchantments,You have not prepared enchantments for this item.,您尚未为此项目准备魅力。
+noMonstersNearby,There are no monsters nearby.,附近没有怪物。
+Fire,Fire,火
+Frost,Frost,霜
+Poison,Poison,毒
+Shock,Shock,震惊
+Magicka,Magicka,玛吉卡
+Animal,Animal,动物
+Undead,Undead,亡灵
+Humanoid,Humanoid,人形生物
+Daedra,Daedra,达德拉
+dialogButtonInfo,Switch between: Active Quests; Finished Quests; Notebook; Messages,在：主动任务之间切换； 完成任务； 笔记本; 消息
+activeQuests,Active Quests,主动任务
+activeQuestsInfo,Click on an active quest that has a target location to initiate travel.,单击具有目标位置的主动任务来启动旅行。
+finishedQuests,Finished Quests,完成任务
+finishedQuestsInfo,Click on an entry to move it. Right click to delete.,单击条目以移动它。 右键单击以删除。
+notebook,Notebook,笔记本
+notebookInfo,Click a note to move. Right click to delete. Click in-between to add a new note.,单击笔记移动。 右键单击以删除。 单击“内部”以添加新注释。
+messages,Messages,消息
+messagesInfo,History of messages recently shown on screen,屏幕上最近显示的消息历史记录
+confirmMoveHead,Move entry,移动条目
+confirmMove,Do you want to change the position of this entry?,您想更改此条目的位置吗？
+confirmMove2,(It will be moved to before the next entry clicked),（将在下一个条目点击之前移动到）
+confirmRemoveHead,Delete entry,删除条目
+confirmRemove,Are you sure you want to remove this entry?,您确定要删除此条目吗？
+confirmRemove2,(It will be deleted permanently and cannot be restored),（将永久删除，无法恢复）
+confirmFindHead,Travel to location,前往位置
+confirmFind,Do you want to open the world map to travel to:,您想打开世界地图以前往：
+confirmFind2,(Note: you can cancel travel from the world map),（注意：您可以从世界地图取消旅行）
+enterNote,Enter your note:,输入注意：
+completedQuest,completed,完全的
+endedQuest,ended,结束
+finishQuestHeader,{0} {1} at {2}:,{0} {1} at {2}：
+quest,Quest,寻求
+noteHeader,{0} in {1}:,{0}在{1}中：
+houseDeed,You obtained the deeds and now own a house in %town of %region.,您获得了契据，现在在％ate cone town of％的城镇中拥有一所房子。
+levelProgress,Progress made to the next level: {0}%,取得了一个下一个级别的进度：{0}％
+readMap,Discovered the location of %map after studying a map.,研究地图后发现了％地图的位置。
+readMapTG,The Thieves Guild have revealed the closely guarded where-abouts of a treasure trove called %map.,盗贼行会透露了一个被称为％地图的宝库的严密保护。
+readMapDB,The Dark Brotherhood revealed the secret of some treasure-laden crypts located at somewhere called %map.,黑暗的兄弟会揭示了位于某处称为％地图的一些富有宝藏的地下室的秘密。
+readMapFail,You have already discovered the location shown by this map.,您已经发现了此地图显示的位置。
+howManyItems,Pick how many items (max {0})?,选择多少个项目（最大{0}）？
+wagonFullGold,Your wagon could only hold {0} gold pieces.,您的旅行车只能握住{0}金块。
+itemsIdentified,Items identified.,确定的项目。
+repairDone,DONE,完毕
+repairDays,%d days,％D天
+interruptRepair,Take back that item before it's repaired?,在修复该物品之前将其收回？
+repairNote,Left my {0} for repair at {1}.,离开我的{0}进行{1}的维修。
+doesntNeedIdentify,This does not need to be identified.,这无需确定。
+goldAmount,{0} gold pieces,{0}金片
+goldWeight,Weight: {0} kg,重量：{0} kg
+letterOfCredit,You are paid with a letter of credit.,您获得了信用证。
+stealSuccess,You are successful.,你很成功。
+stealFailure,You are not successful...,你没有成功...
+cannotRemoveItem,You cannot remove this item.,您无法删除此项目。
+cannotCarryAnymore,You cannot carry anymore stuff.,你不能再携带东西了。
+cannotHoldAnymore,Your cart cannot hold anymore stuff.,您的购物车不能再容纳东西了。
+cannotUseThis,You cannot use this.,您不能使用此。
+equippingWeapon,Equipping %s,装备％s
+lightDouse,You douse the %it.,您将％iT iT。
+lightLight,You light the %it.,您点燃百分比。
+lightDies,Your %it flickers and dies.,您的％闪烁和死亡。
+lightEmpty,Your %it has no fuel left.,您的％它没有燃料。
+lightRefuel,You refuel your %it with a bottle of oil.,您用一瓶油为百分比加油。
+lightFull,Your %it is full.,您的％已满。
+kgSrc,kilograms,公斤
+kgRep,kg,公斤
+damSrc,points of damage,伤害点
+damRep,damage,损害
+arSrc,armor rating,装甲等级
+arRep,armor,盔甲
+northern,(northern),（北方）
+southern,(southern),（南部）
+noWagon,You don't own a wagon.,您没有货车。
+exitTooFar,The exit is too far away for you to access your wagon.,出口太远了，您无法进入货车。
+bookUnavailable,The book is ruined and is now unreadable.,这本书被毁了，现在不可读。
+unknownAuthor,unknown author,未知作者
+cannotDeleteVamp,Cannot delete special vampire spells.,无法删除特殊的吸血鬼法术。
+cannotDeleteWere,Cannot delete special lycanthropy spell.,无法删除特殊的纵向咒语。
+noRecipes,You have no recipes.,您没有食谱。
+potionMixed,Your potion has been mixed.,您的药水混合在一起。
+potionFailed,Those ingredients did not concoct an effective potion.,这些成分没有巩固有效的药水。
+reqIngredients,You do not have the ingredients required.,您没有所需的成分。
+region,Region,地区
+account,Account,帐户
+loan,Loan,贷款
+dueDate,Loan Due Date,贷款到期日
+noAccount,None,没有任何
+loanReminder,You have a loan of {0} gold pieces due in,您有{0}金件的贷款
+loanReminder2,less than {0} months in {1},在{1}中少于{0}月份
+classicIcons,Classic,经典的
+suggestedIcons,Suggested,建议
+serviceMembersOnly,My services are reserved for members only.,我的服务仅为会员保留。
+serviceDonateHowMuch,Donate how much money : ,捐赠多少钱：
+curedDisease,You are cured.,你已经治愈了。
+freeHolidayCuring,You are cured free from cost due to todays' holiday.,由于今天的假期，您可以免费治愈费用。
+gettingQuests1,"Hmm, let me see what tasks we have available.",嗯，让我看看我们有哪些任务。
+gettingQuests2,"Please have patience and wait here a moment, %pcf.",请耐心等待，在这里等待片刻，％pcf。
+illegalRestWarning,It is illegal to camp in or near a city. Continue?,在城市中或附近露营是非法的。 继续？
+cannotLoiterMoreThanXHours1,You cannot loiter more,你不能再游荡
+cannotLoiterMoreThanXHours2,than {0} hours at a time.,一次比{0}小时。
+automapToolTipTextGridButton,left click: switch between 2D top view and 3D view (hotkey: {0})\rright click: reset rot. axis to player pos (hotkey: {1})\rmouse wheel up while over btn: inc. perspective (only 3D mode)\rmouse wheel down while over btn: dec. perspective (only 3D mode),左键单击：在2D顶视图和3D视图之间切换（热键：{0}）\ rright单击：reset rot。 轴向播放器pos（热键：{1}）\ rmouse wheel在BTN：INC上。 透视图（仅3D模式）\ rmouse wheel在BTN上方：DEC。 透视图（仅3D模式）
+automapToolTipForwardButton,left click: move viewpoint forward (hotkey: {0})\rright click: move rotation axis forward (hotkey: {1}),左点击：移动查看点向前（热键：{0}）\ rright单击：移动旋转轴向前（热键：{1}）
+automapToolTipBackwardButton,left click: move viewpoint backwards (hotkey: {0})\rright click: move rotation axis backwards (hotkey: {1}),左键单击：向后移动视图（热键：{0}）\ rright单击：向后移动旋转轴（HOTKEY：{1}）
+automapToolTipLeftButton,left click: move viewpoint to the left (hotkey: {0})\rright click: move rotation axis to the left (hotkey: {1}),左点击：向左移动视点（HOTKEY：{0}）\ rright单击：向左移动旋转轴（hotkey：{1}）
+automapToolTipRightButton,left click: move viewpoint to the right (hotkey: {0})\rright click: move rotation axis to the right (hotkey: {1}),左点击：将视图点移到右侧（热键：{0}）\ rright单击：将旋转轴移动到右侧（hotkey：{1}）
+automapToolTipRotateLeftButton,left click: rotate dungeon to the left (hotkey: {0})\rright click: rotate camera to the left (hotkey: {1}),左点击：向左旋转地牢（HOTKEY：{0}）\ rright单击：向左旋转相机（hotkey：{1}）
+automapToolTipRotateRightButton,left click: rotate dungeon to the right (hotkey: {0})\rright click: rotate camera to the right (hotkey: {1}),左点击：向右旋转地牢（热键：{0}）\ rright单击：向右旋转相机（hotkey：{1}）
+automapToolTipUpstairsButton,left click: increase viewpoint (hotkey: {0})\rright click: increase slice level (hotkey: {1})\rslice level can also be adjusted by holding down middle mouse btn\r\rhint: different render modes may show hidden geometry:\rhotkey {2}: cutout mode\rhotkey {3}: wireframe mode\rhotkey {4}: transparent mode\rswitch between modes with return key\r,左点击：增加视图点（hotkey：{0}）\ rright单击：增加切片级别（hotkey：{1}）\ rslice级别也可以通过按住中间鼠标BTN \ r \ rhint来调整 几何：\ rohotkey {2}：切口模式\ rohotkey {3}：线框模式\ rohotkey {4}：透明模式\ rswitch在带有返回键\ r的模式之间
+automapToolTipDownstairsButton,left click: decrease viewpoint (hotkey: {0})\rright click: decrease slice level (hotkey: {1})\rslice level can also be adjusted by holding down middle mouse btn\r\rhint: different render modes may show hidden geometry:\rhotkey {2}: cutout mode\rhotkey {3}: wireframe mode\rhotkey {4}: transparent mode\rswitch between modes with return key\r,左点击：降低视图点（热键：{0}）\ rright单击：降片级别（hotkey：{1}）\ rslice级别也可以通过按下中间鼠标BTN \ r \ rhint来调整 几何：\ rohotkey {2}：切口模式\ rohotkey {3}：线框模式\ rohotkey {4}：透明模式\ rswitch在带有返回键\ r的模式之间
+automapToolTipPanelCompass,"left click: toggle focus (hotkey: {0})\rbeacons: red ... player, green ... entrance, blue ... rotation axis\r\rright click: reset view (hotkey: {1})\r\rdouble-click left mouse btn in window to create+edit marker note\rdouble-click left mouse btn (+Ctrl key) in window to create marker\rdouble-click left mouse btn on a marker to add/edit a note\rdouble-click right mouse btn on a marker to delete it\rdouble-click right mouse btn in window to position rotation axis\rdouble-click middle mouse btn in window to center view\rdouble-click left mouse btn on discovered portal marker to jump\rto connected teleporter portal",左点击：切换焦点（热键：{0}）\ rbeacons：红色...播放器，绿色...入口，蓝色...旋转轴\ r \ rright单击：reset视图（hotkey：{1}）\ r \ rdouble-click在窗口中左鼠标btn以创建+编辑标记注释\ rdouble-click左鼠标btn（+ctrl键）窗口中以创建标记\ rdouble-click左鼠标左鼠标btn在添加/编辑note/edit a Note \ rdouble btn  - 单击鼠标btn在标记上删除\ rduble-lick右键鼠标btn窗口中的位置旋转轴\ rdouble-lick-click middle鼠标btn窗口中的中心视图\ rdouble-clud-clike \ rdouble-click左鼠标左鼠标btn在发现的门户网站上，以跳高\ \ RTO连接的传送器门户网站
+automapPlayerPositionBeacon,player position beacon,玩家位置信标
+automapRotationPivotAxis,rotation pivot axis,旋转枢轴轴
+automapEntranceExitPositionBeacon,entrance/exit position beacon,入口/退出位置信标
+automapEntranceExit,entrance/exit,入口/出口
+automapPlayerMarker,player marker,玩家标记
+automapTeleporterEntrance,teleporter (entrance),传送器（入口）
+automapTeleporterExit,teleporter (exit),传送器（出口）
+exteriorAutomapBuildingTypeAlchemist,Alchemist,炼金术士
+exteriorAutomapBuildingTypeArmorer,Armorer,装甲
+exteriorAutomapBuildingTypeBank,Bank,银行
+exteriorAutomapBuildingTypeBookseller,Bookseller,书商
+exteriorAutomapBuildingTypeClothingStore,Clothing Store,服装店
+exteriorAutomapBuildingTypeFurnitureStore,Furniture Store,家具店
+exteriorAutomapBuildingTypeGemStore,Gem Store,宝石商店
+exteriorAutomapBuildingTypeGeneralStore,General Store,综合商店
+exteriorAutomapBuildingTypeGuildHall,Guild Hall,公会大厅
+exteriorAutomapBuildingTypeHouseForSale,HouseForSale,房子出售
+exteriorAutomapBuildingTypeLibrary,Library,图书馆
+exteriorAutomapBuildingTypePalace,Palace,宫
+exteriorAutomapBuildingTypePawnShop,Pawn Shop,当铺
+exteriorAutomapBuildingTypeTavern,Tavern,酒馆
+exteriorAutomapBuildingTypeTemple,Temple,寺庙
+exteriorAutomapBuildingTypeWeaponSmith,Weapon Smith,武器史密斯
+exteriorAutomapBuildingTypeUnknown,Unknown,未知
+exteriorAutomapToolTipTextGridButton,"left click: switch to next view mode (hotkey: {0})\ravailable view modes are:\r- original (hotkey {1})\r- extra: includes extra buildings (hotkey {2})\r- all: includes extra buildings, ground flats (hotkey {3})\rswitch background texture with {4}, {5}, {6}, {7}",左键单击：切换到下一个视图模式（hotkey：{0}）\ ravailable视图模式为：\ r-原始（hotkey {1}）\ r- extra：包括额外的建筑物（hotkey {2}）\ r- all：all： 包括额外的建筑物，地面公寓（hotkey {3}）\ rswitch背景纹理，{4}，{5}，{6}，{7}
+exteriorAutomapToolTipForwardButton,left click: move up (hotkey: {0})\rright click: move to north location border (hotkey: {1}),左点击：向上移动（热键：{0}）\ rright单击：移动到北位置边框（hotkey：{1}）
+exteriorAutomapToolTipBackwardButton,left click: move down (hotkey: {0})\rright click: move to south location border (hotkey: {1}),左点击：向下移动（热键：{0}）\ rright单击：移动到南部位置边框（hotkey：{1}）
+exteriorAutomapToolTipLeftButton,left click: move to the left (hotkey: {0})\rright click: move to west location border (hotkey: {1}),左点击：向左移动（热键：{0}）\ rright单击：移动到西部位置边框（hotkey：{1}）
+exteriorAutomapToolTipRightButton,left click: move to the right (hotkey: {0})\rright click: move to east location border (hotkey: {1}),左键单击：向右移动（热键：{0}）\ rright单击：移动到东位置边框（hotkey：{1}）
+exteriorAutomapToolTipRotateLeftButton,left click: rotate map to the left (hotkey: {0})\rright click: rotate map around the player position\rto the left  (hotkey: {1}),左键单击：向左旋转地图（热键：{0}）\ rright单击：旋转围绕播放器位置\ rto左图（hotkey：{1}）
+exteriorAutomapToolTipRotateRightButton,left click: rotate map to the right (hotkey: {0})\rright click: rotate map around the player position\rto the right (hotkey: {1}),左点击：向右旋转地图（热键：{0}）\ rright单击：旋转player位置\ rto右侧的地图（hotkey：{1}）
+exteriorAutomapToolTipUpstairsButton,left click: zoom in (hotkey: {0})\rright click: apply maximum zoom),左点击：Zoom In（HotKey：{0}）\ Rright单击：应用最大Zoom）
+exteriorAutomapToolTipDownstairsButton,left click: zoom out (hotkey: {0}\rright click: apply minimum zoom),左点击：缩放（hotkey：{0} \ rright单击：应用最小变焦）
+exteriorAutomapToolTipPanelCompass,left click: focus player position (hotkey: {0})\rright click: reset view (hotkey: {1}),左点击：聚焦播放器位置（热键：{0}）\ rright单击：reset视图（hotkey：{1}）
+loading,Please wait...,请稍等...
+classicSave,Classic,经典的
+cancel,Cancel,取消
+renameSave,Rename,改名
+deleteSave,Delete,删除
+switchChar,Switch Char,开关char
+savePrompt,Save Game,保存游戏
+loadPrompt,Load Game,加载游戏
+saveButton,Save,节省
+loadButton,Load,加载
+enterSaveName,Enter save name,输入保存名称
+selectSaveName,Select a save,选择一个保存
+confirmDeleteSave,Are you sure you want to delete save?,您确定要删除保存吗？
+confirmOverwriteSave,Overwrite this save?,覆盖这个保存？
+youMustEnterASaveName,You must enter a save name.,您必须输入保存名称。
+youMustSelectASaveName,You must select a save name.,您必须选择一个保存名称。
+noSavesFound,No saves found. Load a Classic save?,找不到保存。 加载经典保存？
+cannotSaveNow,You cannot save now.,您现在无法保存。
+addEffect,Add effect,添加效果
+buySpell,Buy spell,购买法术
+newSpell,New spell,新咒语
+exit,Exit,出口
+casterOnly,Caster only,仅施法者
+byTouch,By touch,通过触摸
+singleTargetAtRange,Single target at range,单个目标
+areaAroundCaster,Area around caster,施法者周围的区域
+areaAtRange,Area at range,区域处于范围
+fireBased,Fire based,基于火
+coldBased,Cold based,基于冷
+poisonBased,Poison based,基于毒药
+shockBased,Shock based,基于冲击
+magicBased,Magic based,基于魔术
+selectIcon,Select icon,选择图标
+nextIcon,Next icon,下一个图标
+previousIcon,Previous icon,以前的图标
+nameSpell,Name spell,名称咒语
+enterSpellName,Enter spell name :,输入咒语名称：
+noEffectsError,You must add at least one effect to this spell.,您必须在此咒语中添加至少一个效果。
+deleteSpell,Do you want to delete this spell?,您想删除这个咒语吗？
+sortSpells,Do you want to sort spells?,您想对法术进行排序吗？
+effectNotFoundError,<effect not found>,<找不到效果>
+noItemToActivate,You have no usable magic item,您没有可用的魔法物品
+Akatosh,Akatosh,阿卡托什
+Arkay,Arkay,阿凯
+Dibella,Dibella,迪贝拉
+Julianos,Julianos,朱利安诺斯
+Kynareth,Kynareth,Kynareth
+Mara,Mara,玛拉
+Stendarr,Stendarr,Stendarr
+Zenithar,Zenithar,Zenithar
+removeKeybind,Are you sure you want to remove the keybind for {0} ('{1}')?,您确定要删除{0}（'{1}'）的键键吗？
+nord,Nord,诺德
+settingsNotApplied,Note: Some changes may not be applied until you restart the game.,注意：在您重新启动游戏之前，可能不会应用一些更改。
+doneButton,Done,完毕
+temple,temple,寺庙
+unknownPowers,Unknown Powers,未知的力量
+cannotBeRepaired,This cannot be repaired.,这无法修复。
+youNeverAwaken,You never awaken.,你从来没有醒来。
+modSettings,Mod Settings,mod设置
+gameEffectsSettings,Effect Settings,效果设置
+antialiasing,Antialiasing,抗质量
+ambientOcclusion,Ambient Occlusion,环境光遮蔽
+bloom,Bloom,盛开
+motionBlur,Motion Blur,运动模糊
+vignette,Vignette,小插图
+depthOfField,Depth of Field,景深
+antialiasingTip,Give a smoother appearance,散发
+enable,Enable,使能够
+fxaa,FXAA,FXAA
+smaa,SMAA,SMAA
+taa,TAA,taa
+none,None,没有任何
+method,Method,方法
+fxaaFastMode,FXAA Fast Mode,FXAA快速模式
+low,Low,低的
+medium,Medium,中等的
+high,High,高的
+smaaQuality,SMAA Quality,SMAA质量
+taaSharpness,TAA Sharpness,Taa清晰度
+disabled,Disabled,禁用
+setPageDefaults,Set Page Defaults,设置页面默认值
+ambientOcclusionTip,Darkens creases and holes,变黑
+scalableAmbientObscurance,Scalable Ambient Obscurance,可扩展的环境晦涩
+multiScaleVolumetricObscurance,Multi Scale Volumetric Obscurance,多尺度体积晦涩
+scalableAmbient,Scalable Ambient,可扩展的环境
+multiScaleVolumetric,MultiScale Volumetric,多尺度体积
+intensity,Intensity,强度
+lowest,Lowest,最低
+ultra,Ultra,极端主义者
+radius,Radius,半径
+quality,Quality,质量
+thickness,Thickness,厚度
+bloomTip,Make bright areas glow,使明亮的区域发光
+threshold,Threshold,临界点
+diffusion,Diffusion,扩散
+bloomFastMode,Bloom fast mode,Bloom快速模式
+motionBlurTip,Simulates objects moving faster than camera exposure,模拟对象移动的速度比相机曝光更快
+shutterAngle,Shutter Angle,快门角度
+sampleCount,Sample Count,样本计数
+vignetteTip,Darken towards the edges of screen,向屏幕边缘变暗
+smoothness,Smoothness,平滑度
+roundness,Roundness,圆度
+rounded,Rounded,圆形
+depthOfFieldTip,Simulates focus of camera lens,模拟相机镜头的聚焦
+focusDistance,Focus Distance,聚焦距离
+aperture,Aperture,光圈
+focalLength,Focal Length,焦距
+maxBlurSize,Max Blur Size,最大模糊大小
+small,Small,小的
+large,Large,大的
+veryLarge,Very Large,很大
+ditherTip,Apply noise to reduce large-scale patterns like color banding,施加噪音以减少大规模图案，例如颜色带
+dither,Dither,抖动
+colorBoost,ColorBoost,配色板
+colorBoostTip,Brightens colors near camera,照相机附近的颜色
+dungeonScale,Dungeon Scale,地牢量表
+interiorScale,Interior Scale,内部尺度
+exteriorScale,Exterior Scale,外部尺度
+dungeonFalloff,Dungeon Falloff,地牢坠落
+retroMode,Retro Mode,复古模式
+retroModeTip,Renders world at lower resolutions,在较低的分辨率下使世界呈现
+mode,Mode,模式
+retroModeOff,Off,离开
+retroMode320x200,320x200,320x200
+retroMode640x400,640x400,640x400
+off,Off,离开
+posterizationFull,Posterization (full),后代（完整）
+posterizationMinusSky,Posterization (-sky),后代（-sky）
+palettizationFull,Palettization (full),装修（完整）
+palettizationMinusSky,Palettization (-sky),装修（-sky）
+postProcess,Postprocess,后期处理
+retroModeAspectCorrection,Aspect Ratio Correction,纵横比校正
+FourThree,4:03,4:03
+SixteenTen,16:10,16:10
+notEnoughSpellpointsLeft,You do not have enough spell points left.,您没有足够的咒语点。
+totalIdentified,{0} out of {1} identified.,{0}从{1}中识别出来。
+dispelMagicSuccess,Dispel magic was a success...,消除魔术是成功的...
+dispelMagicFailed,Dispel magic failed...,消除魔术失败...
+smallerDungeonsChanged,Smaller dungeons changed while inside dungeon. Moving player to dungeon exit.,在地牢内部时，较小的地牢发生了变化。 将播放器移至地牢出口。
+youNote,You note: ,您注意：
+customName,Custom name: ,自定义名称：
 StoresA,"%ef's
 %cn's Best
 The Essential
@@ -1071,7 +1226,25 @@ First Class
 The %rt's
 The Champion
 Doctor %ef's
-Lady %ef's",酒馆
+Lady %ef's","％ef 
+ ％CN最好的 
+ 重要的 
+ 勋爵％ef的 
+ 冒险家的 
+ 奇怪 
+ ％EF最好的 
+ 便宜货 
+ 优质的 
+ 皇帝的 
+ ％CN 
+ ％EF的一般 
+ 上级 
+ ％EF的质量 
+ 头等舱 
+ ％RT 
+ 冠军 
+ 医生％EF的 
+ 女士％EF的"
 GeneralStoresB,"Supplies
 Supply Store
 Gear
@@ -1086,7 +1259,21 @@ Retail Store
 Trading Post
 Market
 Wares
-Warehouse",寺庙
+Warehouse","补给品 
+ 供应商店 
+ 齿轮 
+ 齿轮商店 
+ 设备 
+ 设备商店 
+ 杂物 
+ 规定 
+ 商品 
+ 综合商店 
+ 零售店 
+ 交易哨所 
+ 市场 
+ 商品 
+ 仓库"
 WeaponStoresB,"Weapons
 Weaponry
 Arms
@@ -1096,7 +1283,16 @@ Armsmaker
 Blades
 Blacksmith
 Metalsmith
-Weaponsmith",武器史密斯
+Weaponsmith","武器 
+ 武器 
+ 武器 
+ 军备 
+ 兵工厂 
+ 军械师 
+ 刀片 
+ 铁匠 
+ 金属匠 
+ 武器匠"
 ArmorStoresB,"Armory
 Mail
 Shielding
@@ -1108,7 +1304,18 @@ Blacksmith
 Metalsmith
 Armorer
 Smith
-Smithy",未知
+Smithy","军械库 
+ 邮件 
+ 屏蔽 
+ 盔甲 
+ 盾牌 
+ 宙斯盾 
+ 金属工作 
+ 铁匠 
+ 金属匠 
+ 装甲 
+ 史密斯 
+ 史密斯"
 BookStoresB,"Books
 Bookstore
 Bookshop
@@ -1116,7 +1323,14 @@ Book Dealer
 Book Center
 Bookseller
 Bookstall
-Incunabula",左键单击：切换到下一个视图模式（热键：{0}）\可用的视图模式为：\r- 原始（热键 {1}）\r- 额外：包括额外的建筑物（热键 {2}）\r- 全部：包括额外的建筑物、地面（热键 {3}）\r使用 {4}、{5}、{6}、{7} 切换背景纹理
+Incunabula","图书 
+ 书店 
+ 书店 
+ 书经销商 
+ 图书中心 
+ 书商 
+ 书摊 
+ incunabula"
 LibraryStoresB,"Library
 Bookroom
 Athenaeum
@@ -1124,7 +1338,14 @@ Public Library
 Historians
 Bookroom
 Seminary
-Lyceum",左键单击：向上移动（热键：{0}）\r右键单击：移动到北位置边界（热键：{1}）
+Lyceum","图书馆 
+ 书房 
+ 雅典娜 
+ 公共图书馆 
+ 历史学家 
+ 书房 
+ 神学院 
+ Lyceum"
 ClothingStoresB,"Clothing
 Clothes
 Garments
@@ -1135,7 +1356,17 @@ Attire
 Fashion
 Tailoring
 Outfits
-Finery",左键单击：向下移动（热键：{0}）\r右键单击：向南位置边界移动（热键：{1}）
+Finery","衣服 
+ 衣服 
+ 服装 
+ 服饰 
+ 服装 
+ 服装 
+ 服装 
+ 时尚 
+ 裁缝 
+ 服装 
+ 服饰"
 AlchemyStoresB,"Herbs
 Potherbs
 Spices
@@ -1158,7 +1389,29 @@ Chemicals
 Experiental Products
 Alchemistry
 Alchemical Solutions
-Metallurgy",左键单击：向左移动（热键：{0}）\r右键单击：向西位置边界移动（热键：{1}）
+Metallurgy","草药 
+ 手掌 
+ 香料 
+ 补救措施 
+ 解毒剂 
+ 物理 
+ 药物 
+ 药水 
+ tin剂 
+ 药物 
+ 长生不老药 
+ 药店 
+ 药剂师 
+ 官员 
+ 药剂 
+ 草药花园 
+ 药品 
+ 化学 
+ 化学物质 
+ 体验产品 
+ 炼金术 
+ 炼金术解决方案 
+ 冶金"
 GemStoresB,"Gems
 Gemstones
 Jewelry
@@ -1168,7 +1421,16 @@ Bijoutry
 Jewelers
 Jewel Box
 Jewelry Shop
-Gemcutter",左键单击：向右移动（热键：{0}）\r右键单击：向东位置边界移动（热键：{1}）
+Gemcutter","宝石 
+ 宝石 
+ 珠宝 
+ 珠宝 
+ 珍贵的石头 
+ Bijoutry 
+ 珠宝商 
+ 珠宝盒 
+ 珠宝店 
+ gemcutter"
 PawnStoresB,"Pawnshop
 Pawnbrokers
 Used Supplies
@@ -1176,7 +1438,14 @@ Used Gear
 Used Equipment
 Used Merchandise
 Hockshop
-Antiquities",左键单击：向左旋转地图（热键：{0}）\r右键单击：围绕玩家位置\r向左旋转地图（热键：{1}）
+Antiquities","当铺 
+ 典当行 
+ 二手用品 
+ 二手齿轮 
+ 二手设备 
+ 使用的商品 
+ Hockshop 
+ 古物"
 FurnitureStoresB,"Furniture
 Furnishings
 Interior Design
@@ -1185,7 +1454,15 @@ Decor
 Carpentry
 Woodworking
 Crafts
-Woodwork",左键单击：向右旋转地图（热键：{0}）\r右键单击：围绕玩家位置\r向右旋转地图（热键：{1}）
+Woodwork","家具 
+ 家具 
+ 室内设计 
+ 家具店 
+ 装饰风格 
+ 木工 
+ 木工 
+ 工艺 
+ 木制品"
 LivestockStoresB,"Livestock
 Breeders
 Farm Animals
@@ -1194,7 +1471,15 @@ Creatures
 Game
 Animalia
 Fauna
-Menagerie",左键单击：放大（热键：{0}）\r右键单击：应用最大缩放）
+Menagerie","家畜 
+ 育种者 
+ 农场动物 
+ 野兽 
+ 生物 
+ 游戏 
+ Animalia 
+ 动物区系 
+ Menagerie"
 TavernsA,"The Queen's
 The King's
 The Dirty
@@ -1230,7 +1515,42 @@ The Toad and
 The Rat and
 The Savage
 The Knave and
-The Dead",左键单击：缩小（热键：{0}\r右键单击：应用最小缩放）
+The Dead","皇后 
+ 国王的 
+ 肮脏 
+ 黑色的 
+ 痣和 
+ 绿色的 
+ 这红色 
+ 黄金 
+ 白色 
+ 银 
+ 深红色 
+ 飞行 
+ 跳舞 
+ 笑 
+ 不安 
+ 口渴 
+ 不幸的 
+ 幸运 
+ 魔鬼的 
+ 生锈 
+ 嚎叫 
+ 尖叫 
+ 蝙蝠和 
+ 狮子和 
+ lynx和 
+ 矮人和 
+ 海狸和 
+ 狐狸和 
+ 鼠标和 
+ 猪和 
+ 羽毛和 
+ 蟾蜍和 
+ 老鼠和 
+ 野蛮人 
+ nave和 
+ 死亡"
 TavernsB,"Chasm
 Mug
 Pit
@@ -1266,13 +1586,48 @@ Fawn
 Stag
 Barbarian
 Rascal
-Fairy",左键单击：聚焦玩家位置（热键：{0}）\r右键单击：重置视图（热键：{1}）
-houseForSale,House for sale,请稍等...
-theBankOf,The Bank of,经典的
-daggerfall,Daggerfall,取消
-wayrest,Wayrest,改名
-sentinel,Sentinel,删除
-palace,Palace,开关字符
+Fairy","鸿沟 
+ 马克杯 
+ 坑 
+ 猫 
+ 狗 
+ 妖精 
+ 格里芬 
+ 龙 
+ OGRE 
+ 巨大的 
+ Djinn 
+ 狼 
+ 猎人 
+ 匕首 
+ 颅骨 
+ 剑 
+ 警卫 
+ 地牢 
+ 舵 
+ 城堡 
+ 水罐 
+ 鸟 
+ 侏儒 
+ 刺猬 
+ 马斯克拉特 
+ Woodchuck 
+ 蝎 
+ 獾 
+ 山羊 
+ 豪猪 
+ 牧师 
+ 讨好 
+ 麈 
+ 野蛮人 
+ 流氓 
+ 仙女"
+houseForSale,House for sale,房子出售
+theBankOf,The Bank of,银行
+daggerfall,Daggerfall,匕首
+wayrest,Wayrest,Wayrest
+sentinel,Sentinel,哨兵
+palace,Palace,宫
 regionNames,"Alik'r Desert
 Dragontail Mountains
 Glenpoint Foothills
@@ -1334,18 +1689,85 @@ Gavaudon
 Tulune
 Glenumbra Moors
 Ilessan Hills
-Cybiades",保存游戏
-ocean,Ocean,加载游戏
-unknownUpper,Unknown,节省
-switchToRegion,Switch To: {0} Region,加载
-locationInRegionProvince,{0} in {1} province,输入保存名称
+Cybiades","alik'r沙漠 
+ 龙尾山 
+ Glenpoint Foothills 
+ 匕首虚张声势 
+ Yeorth Burrowland 
+ 德温宁 
+ 拉文尼森林 
+ 恶魔 
+ 马利克纳森林 
+ Balfiera岛 
+ 班莎 
+ Dak'fron 
+ 西伊利亚西亚湾的岛屿 
+ 塔马利人 
+ 莱林悬崖 
+ Bjoulsae河 
+ 弗洛斯加利亚山脉 
+ 匕首 
+ Glenpoint 
+ 贝尼 
+ 哨兵 
+ 背叛者 
+ 莱恩 
+ Wayrest 
+ Tem High Rock Village Gen 
+ Rai Hammerfell村 
+ or骨面积 
+ Skeffington Wood 
+ Hammerfell湾海岸 
+ Hammerfell Sea Coast 
+ 高岩湾海岸 
+ 高岩海海岸 
+ 北马 
+ 梅内维亚 
+ 阿尔凯尔 
+ Koegria 
+ Bhoriane 
+ 坎布里亚 
+ Phrygias 
+ Urvaius 
+ Ykalon 
+ 丹尼亚 
+ 沙尔戈拉 
+ Abibon-Gora 
+ Kairou 
+ pothago 
+ Myrkwasa 
+ Ayasofya 
+ 蒂戈努斯 
+ Kozanset 
+ Satakalaam 
+ Totambu 
+ 莫尔诺 
+ 以弗所 
+ 桑塔基 
+ 抗植物 
+ 雪人 
+ 加瓦顿 
+ 图元 
+ Glenumbra Moors 
+ 伊利桑山 
+ Cybiades"
+ocean,Ocean,海洋
+unknownUpper,Unknown,未知
+switchToRegion,Switch To: {0} Region,切换到：{0}区域
+locationInRegionProvince,{0} in {1} province,{0} in {1}省
 dayNames,"Sundas
 Morndas
 Tirdas
 Middas
 Turdas
 Fredas
-Loredas",选择保存
+Loredas","Sundas 
+ 莫恩达斯 
+ 蒂德斯 
+ Middas 
+ Turdas 
+ 弗雷达斯 
+ 洛雷达斯"
 monthNames,"Morning Star
 Sun's Dawn
 First Seed
@@ -1357,7 +1779,18 @@ Last Seed
 Hearthfire
 Frostfall
 Sun's Dusk
-Evening Star",您确定要删除保存吗？
+Evening Star","晨星 
+ 太阳的黎明 
+ 第一个种子 
+ 雨的手 
+ 第二种子 
+ 年中 
+ 太阳的高度 
+ 最后种子 
+ 炉火 
+ 霜冻 
+ 太阳的黄昏 
+ 晚星"
 birthSignNames,"The Ritual
 The Lover
 The Lord
@@ -1369,17 +1802,31 @@ The Warrior
 The Lady
 The Tower
 The Atronach
-The Thief",覆盖这个保存吗？
+The Thief","仪式 
+ 情人 
+ 主 
+ 法师 
+ 影子 
+ 马 
+ 学徒 
+ 战士 
+ 这位女士 
+ 塔 
+ Atronach 
+ 小偷"
 seasonNames,"Fall
 Spring
 Summer
-Winter",您必须输入保存名称。
-longDateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}, {4}{5} of {6:00}, 3E{7}",您必须选择一个保存名称。
-dateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}{4} of {5:00}, 3E{6}",未找到任何保存。加载经典保存？
-dateFormatString,{0} the {1}{2} of {3:00},您现在无法保存。
-ingredientFormatString,{0} {1},添加效果
-longWeaponNameFormatString,{0} {1},购买咒语
-longArmorNameFormatString,{0} {1},新咒语
+Winter","落下 
+ 春天 
+ 夏天 
+ 冬天"
+longDateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}, {4}{5} of {6:00}, 3E{7}",{0:00}：{1:00}：{2:00} on {3}，{4} {5} {6:00}，3e {7}
+dateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}{4} of {5:00}, 3E{6}",{0:00}：{1:00}：{2:00} on {3} {4}的{5:00}，3e {6}
+dateFormatString,{0} the {1}{2} of {3:00},{0} {1} {2}的{3:00}
+ingredientFormatString,{0} {1},{0} {1}
+longWeaponNameFormatString,{0} {1},{0} {1}
+longArmorNameFormatString,{0} {1},{0} {1}
 strRatings,"pathetic
 frail
 weak
@@ -1389,7 +1836,16 @@ fairly strong
 athletic
 very strong
 powerful
-superhuman",出口
+superhuman","可怜的 
+ 脆弱 
+ 虚弱的 
+ 低于平均值 
+ 差不多 
+ 相当强大 
+ 运动 
+ 非常强壮 
+ 强大的 
+ 超人"
 intRatings,"vegetable-like
 idiotic
 half-witted
@@ -1399,7 +1855,16 @@ cunning
 fairly clever
 very intelligent
 brilliant
-genius",仅脚轮
+genius","类似蔬菜 
+ 愚蠢的 
+ 一半 
+ 暗淡 
+ 差不多 
+ 狡猾 
+ 相当聪明 
+ 很聪明 
+ 杰出的 
+ 天才"
 wilRatings,"inane
 submissive
 passive
@@ -1409,7 +1874,16 @@ stable
 confident
 strong-willed
 very focused
-enlightened",通过触摸
+enlightened","inane 
+ 顺从 
+ 被动的 
+ 分心 
+ 毫无鉴定 
+ 稳定的 
+ 自信的 
+ 意志坚强 
+ 非常专注 
+ 开明"
 agiRatings,"oafish
 bumbling
 clumsy
@@ -1419,7 +1893,16 @@ spry
 nimble
 dexterous
 very agile
-acrobatic",范围内单个目标
+acrobatic","oafish 
+ 笨拙 
+ 笨拙 
+ 尴尬的 
+ 差不多 
+ 轻快 
+ 敏捷 
+ 轻巧 
+ 非常敏捷 
+ 杂技"
 endRatings,"sickly
 pitiable
 unsteady
@@ -1429,7 +1912,16 @@ above average
 very healthy
 hardy
 titanic
-immortal",脚轮周围区域
+immortal","生病 
+ 可怜 
+ 不稳定 
+ 不稳定的 
+ 差不多 
+ 高于平均水平 
+ 非常健康 
+ 哈代 
+ 泰坦尼克号 
+ 不朽"
 perRatings,"abhorrent
 unpopular
 anonymous
@@ -1439,7 +1931,16 @@ interesting
 charming
 arresting
 authoritative
-charismatic",范围内的面积
+charismatic","憎恶 
+ 不受欢迎 
+ 匿名的 
+ 谦逊 
+ 不明显 
+ 有趣的 
+ 迷人 
+ 逮捕 
+ 权威性 
+ 超凡魅力"
 spdRatings,"inactive
 sluggish
 very slow
@@ -1449,7 +1950,16 @@ above average
 fast
 fleet-footed
 lightning-fast
-meteoric",火基
+meteoric","不活动 
+ 迟缓 
+ 非常慢 
+ 慢的 
+ 差不多 
+ 高于平均水平 
+ 快速地 
+ 舰队足 
+ 闪电 
+ 陨石"
 lucRatings,"cursed
 hopeless
 ill-favored
@@ -1459,26 +1969,35 @@ fairly lucky
 lucky
 fortunate
 very auspicious
-divinely favored",冷基
-Mage,Mage,毒基
-Spellsword,Spellsword,基于冲击
-Battlemage,Battlemage,基于魔法
-Sorcerer,Sorcerer,选择图标
-Healer,Healer,下一个图标
-Nightblade,Nightblade,上一个图标
-Bard,Bard,名字拼写
-Burglar,Burglar,输入咒语名称：
-Rogue,Rogue,你必须为该法术添加至少一种效果。
-Acrobat,Acrobat,你想删除这个咒语吗？
-Thief,Thief,你想对咒语进行排序吗？
-Assassin,Assassin,<未找到效果>
-Monk,Monk,你没有可用的魔法物品
-Archer,Archer,阿卡托什
-Ranger,Ranger,阿尔凯
-Barbarian,Barbarian,迪贝拉
-Warrior,Warrior,胡利亚诺斯
-Knight,Knight,凯纳雷斯
-Custom,Custom,玛拉
+divinely favored","诅咒 
+ 绝望 
+ 不好 
+ 不幸的 
+ 差不多 
+ 很幸运 
+ 幸运的 
+ 幸运 
+ 非常吉祥 
+ 受到神圣的青睐"
+Mage,Mage,法师
+Spellsword,Spellsword,拼写标志
+Battlemage,Battlemage,战司
+Sorcerer,Sorcerer,巫师
+Healer,Healer,治愈者
+Nightblade,Nightblade,睡衣
+Bard,Bard,诗人
+Burglar,Burglar,小偷
+Rogue,Rogue,流氓
+Acrobat,Acrobat,杂技演员
+Thief,Thief,贼
+Assassin,Assassin,刺客
+Monk,Monk,僧
+Archer,Archer,射手
+Ranger,Ranger,游侠
+Barbarian,Barbarian,野蛮人
+Warrior,Warrior,战士
+Knight,Knight,骑士
+Custom,Custom,风俗
 darkBrotherhoodRanks,"Apprentice
 Journeyman
 Operator
@@ -1488,7 +2007,16 @@ Punisher
 Terminator
 Assassin
 Dark Brother
-Master Assassin",斯坦达尔
+Master Assassin","学徒 
+ 旅行者 
+ 操作员 
+ 杀手 
+ execution子 
+ 惩罚者 
+ 终结者 
+ 刺客 
+ 黑暗的兄弟 
+ 大师刺客"
 fightersRanks,"Apprentice
 Journeyman
 Swordsman
@@ -1498,7 +2026,16 @@ Warder
 Guardian
 Champion
 Warrior
-Master",泽尼萨
+Master","学徒 
+ 旅行者 
+ 剑客 
+ 保护者 
+ 后卫 
+ 看守 
+ 监护人 
+ 冠军 
+ 战士 
+ 掌握"
 knightlyOrderRanks,"Aspirant
 Squire
 Gallant
@@ -1508,7 +2045,16 @@ Knight Brother
 Commander
 Marshall
 Seneschal
-Paladin",您确定要删除 {0}（“{1}”）的按键绑定吗？
+Paladin","有抱负的人 
+ 乡绅 
+ 英勇 
+ 更 
+ 门将 
+ 骑士兄弟 
+ 指挥官 
+ 马歇尔 
+ 管家 
+ 圣骑士"
 magesRanks,"Apprentice
 Journeyman
 Evoker
@@ -1518,7 +2064,16 @@ Enchanter
 Warlock
 Wizard
 Master Wizard
-Archmage",诺德
+Archmage","学徒 
+ 旅行者 
+ Evoker 
+ 魔术师 
+ 魔术师 
+ 魔法师 
+ 术士 
+ 向导 
+ 向导大师 
+ 大师"
 templeRanks,"Novice
 Initiate
 Acolyte
@@ -1528,7 +2083,16 @@ Disciple
 Brother
 Diviner
 Master
-Patriarch",注意：某些更改可能需要重新启动游戏才能应用。
+Patriarch","新手 
+ 发起 
+ 侍从 
+ 熟练 
+ 策展人 
+ 弟子 
+ 兄弟 
+ Diviner 
+ 掌握 
+ 族长"
 thievesRanks,"Apprentice
 Journeyman
 Filcher
@@ -1538,29 +2102,46 @@ Bandit
 Thief
 Ringleader
 Mastermind
-Master Thief",完毕
-darkSister,Dark Sister,寺庙
-nonMember,non-member,未知的力量
-knightSister,Knight Sister,这是无法修复的。
-matriarch,Matriarch,你永远不会醒来。
-sister,Sister,模组设置
-daedricSkill,Daedric,效果设置
-orcishSkill,Orcish,抗锯齿
-midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5},环境光遮蔽
-hthDamageFormatString,{0} dmg: {1}-{2},盛开
-affiliationFormatString,{0} (rep:{1}),运动模糊
+Master Thief","学徒 
+ 旅行者 
+ Filcher 
+ 骗子 
+ 强盗 
+ 土匪 
+ 贼 
+ 头目 
+ 策划者 
+ 小偷大师"
+darkSister,Dark Sister,黑暗的姐姐
+nonMember,non-member,非会员
+knightSister,Knight Sister,骑士姐姐
+matriarch,Matriarch,族长
+sister,Sister,姐姐
+daedricSkill,Daedric,Daedric
+orcishSkill,Orcish,orcish
+midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5},{0:00}：{1:00}：{2:00} {3:00} {4:00} 3e {5}
+hthDamageFormatString,{0} dmg: {1}-{2},{0} DMG：{1}  -  {2}
+affiliationFormatString,{0} (rep:{1}),{0}（rep：{1}）
 answers_5404,"bow
 bow arrow
 crossbow
 bows
-crossbows",小插图
+crossbows","弓 
+ 弓箭 
+ 弩 
+ 弓 
+ cross"
 answers_5406,"one
-1",景深
+1","一 
+ 1"
 answers_5423,"benefactor
-the benefactor",赋予更光滑的外观
+the benefactor","恩人 
+ 恩人"
 answers_5424,"shut up
 shutup
-shaddup",使能够
+shaddup","住口 
+ 住口 
+ Shaddup"
 answers_5464,"yes
 ok
 i agree
@@ -1570,8 +2151,17 @@ done
 fine
 okay
 sure
-yep",FXAA
-random,Random,SMAA
-nordSurnameImmutableSuffix,sen,TAA
-confirmDefaultControls,Are you sure you want to set default controls?,没有任何
-saveLoadPromptFormat,{0} for '{1}',方法
+yep","是的 
+ 好的 
+ 我同意 
+ y 
+ 同意 
+ 完毕 
+ 美好的 
+ 好的 
+ 当然 
+ 是的"
+random,Random,随机的
+nordSurnameImmutableSuffix,sen,森
+confirmDefaultControls,Are you sure you want to set default controls?,您确定要设置默认控件吗？
+saveLoadPromptFormat,{0} for '{1}',{0}对于'{1}'

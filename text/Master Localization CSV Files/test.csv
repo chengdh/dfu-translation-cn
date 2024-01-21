@@ -1,0 +1,90 @@
+Key,Value
+0,"STRENGTH[/center]
+Strength governs encumbrance, weapon damage[/left]
+and the ease of increasing strength-related skills.[/left]
+With your strength of %str, you are considered %ark[/left]
+[/pos:x=20,y=0]%dam [/pos:x=40,y=0]modifier is factored into your[/left]
+[/pos:x=40,y=0]hand-to-hand / weapon damage.[/left]
+[/pos:x=20,y=0]%enc [/pos:x=40,y=0]kilograms is your maximum encumbrance.[/left]
+[/end]"
+1,"INTELLIGENCE[/center]
+Intelligence governs total magic potential[/left]
+and the ease of increasing intelligence-related skills.[/left]
+With your intelligence of %int, you are considered %ark.[/left]
+[/pos:x=20,y=0]%spc out of %spt spell points are available for casting.[/left]
+[/end]"
+2,"WILLPOWER[/center]
+Willpower governs resistance to spell effects[/left]
+and the ease of increasing willpower-related skills.[/left]
+With your willpower of %wil, you are considered %ark.[/left]
+[/pos:x=20,y=0]+%mad [/pos:x=40,y=0]modifier is factored into your magical resistance.[/left]
+[/end]"
+3,"AGILITY[/center]
+Agility governs ability to hit a target,[/left]
+to avoid getting hit, and the ease of increasing[/left]
+agility-related skills. With your agility of %agi,[/left]
+you are considered %ark.[/left]
+[/pos:x=20,y=0]%thd [/pos:x=40,y=0]modifier is factored into your combat odds.[/left]
+[/end]"
+4,"ENDURANCE[/center]
+Endurance governs hit points, healing rate,[/left]
+resistance to poisons and diseases, and fatigue.[/left]
+With your endurance of %end, you are considered %ark.[/left]
+[/pos:x=20,y=0]%hea [/pos:x=40,y=0]modifier is factored into the number[/left]
+[/pos:x=40,y=0]of hit points you gain each level.[/left]
+[/pos:x=20,y=0]%hmd [/pos:x=40,y=0]modifier is factored into your healing rate.[/left]
+[/end]"
+5,"PERSONALITY[/center]
+Personality governs the ease of increasing[/left]
+personality-related skills.[/left]
+With your personality of %per, you are considered %ark.[/left]
+[/end]"
+6,"SPEED[/center]
+Speed governs movement rate, missile reloading time,[/left]
+and all speed-related skills.[/left]
+With your speed of %spd, you are considered %ark.[/left]
+[/end]"
+7,"LUCK[/center]
+Luck is a powerful modifier to any action you take.[/left]
+There are no skills in which luck is the primary attribute,[/left]
+but your odds of succeeding in any skill trial is modified[/left]
+by your luck.[/left]
+With your luck of %luc, you are considered %ark.[/left]
+[/end]"
+8,"Training will cost you %a.[/center]
+Do you wish to receive training?[/end]"
+10,I think they have one in %fcn.[/end]
+11,"I have no idea.[/record]
+I honestly couldn't tell you.[/record]
+Don't know, really...[/record]
+Try asking someone else.[/record]
+You tell me.[/end]"
+12,You have no spells in your spellbook.[/end]
+13,"There is no place by[/center]
+that name on your map.[/center]
+[/end]"
+14,You must distribute your bonus points.[/end]
+15,Do you wish to surrender to the city guards?[/end]
+16,You are asking for too many days into the future.[/end]
+17,It is illegal to camp in or near a city.[/end]
+18,You are healthy.[/end]
+19,You have no affiliations.[/end]
+20,There is no soul to release from Azura's Star.[/end]
+21,You cannot train a skill that above 50%.[/end]
+22,"You are in %cn.[/center]
+It is %tim on %dat.[/center]
+In the eyes of the law of %crn,[/center]
+you are %ltn.[/center]
+[/end]"
+23,"You have to wait at least 12 hours before you[/center]
+can undertake more training.[/center]
+[/end]"
+24,"This does not need to be repaired.[/center]
+[/end]"
+25,"You have %gii gold pieces. How many[/center]
+do you wish to drop ?[/center]
+[/input] [/center]
+[/end]"
+26,"You cannot rest for more[/center]
+than 99 hours at a time.[/center]
+[/end]"

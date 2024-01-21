@@ -1,13 +1,17 @@
 Key,Value,T
-about,This CSV provides text records for the example custom spell MageLight.,此 CSV 提供示例自定义法术 MageLight 的文本记录。
-groupName,Mage Light,法师之光
+about,This CSV provides text records for the example custom spell MageLight.,此CSV提供了示例自定义咒语Magelight的文本记录。
+groupName,Mage Light,法师光
 subGroupNames,"Inferno
 Rime
 Venom
 Storm
-Arcane",地狱
-effectDescription,Creates a soft light around caster.,雾凇
-durationSpellMaker,Duration: Rounds you will be illuminated.,毒液
-durationSpellBook,Duration: %bdr + %adr per %cld level(s),风暴
-chance,Chance: N/A,奥术
-magnitude,Magnitude: N/A,在脚轮周围产生柔和的光线。
+Arcane","地狱 
+ rime 
+ 毒液 
+ 风暴 
+ 奥术"
+effectDescription,Creates a soft light around caster.,在施法者周围创建柔和的光线。
+durationSpellMaker,Duration: Rounds you will be illuminated.,持续时间：回合您将被照亮。
+durationSpellBook,Duration: %bdr + %adr per %cld level(s),持续时间：％BDR +％ADR每％CLD水平（S）
+chance,Chance: N/A,机会：不/a
+magnitude,Magnitude: N/A,大小：不/a
