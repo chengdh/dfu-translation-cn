@@ -16,7 +16,6 @@ const translate_csv = () => {
         for (const f of files) {
             if (f.endsWith(".csv") && f === "Internal_RSC.csv") {
                 const file = `${csv_path}/${f}`
-                let total_row_count = 0
                 let rows = []
 
                 fs.createReadStream(file)
@@ -26,16 +25,23 @@ const translate_csv = () => {
                         rows.push(row)
                     })
                     .on('end', async (rowCount) => {
-                        total_row_count = rowCount
                         console.log(`Parsed ${rowCount} rows`)
                         if (rows.length > 1000) {
-                            const chunkSize = 50;
+                            const chunkSize = 40;
                             for (let i = 0; i < rows.length; i += chunkSize) {
-                                const chunk = rows.slice(i, i + chunkSize);
-                                const translated_rows = await batch_translate_v2(chunk)
-                                writeToPath(`${translated_csv_path}/${i}-${f}`, translated_rows)
-                                    .on('error', err => console.error(err))
-                                    .on('finish', () => console.log('Done writing.'));
+                                const file_path = `${translated_csv_path}/${i}-${f}`
+                                fs.access(file_path, fs.constants.F_OK, async (err) => {
+                                    if (err) {
+                                        console.error('File does not exist');
+                                        const chunk = rows.slice(i, i + chunkSize);
+                                        const translated_rows = await batch_translate_v2(chunk)
+
+                                        writeToPath(file_path, translated_rows)
+                                            .on('error', err => console.error(err))
+                                            .on('finish', () => console.log('Done writing.'));
+                                    }
+                                    return;
+                                });
                             }
                         }
                         else {
@@ -82,7 +88,7 @@ const process_reserve_word = (origin_text) => {
     ]
     for (const reg of reserve_words) {
         let searchRegex = new RegExp(reg, 'gim');
-        origin_text = origin_text.replace(searchRegex, "<span class='notranslate'>$1</span>");
+        origin_text = origin_text.replace(searchRegex, '<span>$1</span>');
     }
     return origin_text
 }
@@ -92,23 +98,32 @@ const restore_reserve_word = (transleted_text) => {
     console.log("before processed text:", transleted_text)
     const reserve_words = [
         {
-            b: /(\<span class\ =\'notranslate\'\> \[\/center\]\ <\/span\>)/,
+            b: /(\<span\>)/,
+            c: ""
+        },
+        {
+            b: /(\<\/span\>)/,
+            c: ""
+        },
+
+        {
+            b: /(\<span translate\=\'no\'\>\[\/center\]\<\/span\>)/,
             c: "[/center]"
         },
         {
-            b: /(\<span class\ =\'notranslate\'\> \[\/left\] \<\/span\>)/,
+            b: /(\<span translate\=\'no\'\>\[\/left\]\<\/span\>)/,
             c: "[/left]"
         },
         {
-            b: /(\<span class\ =\'notranslate\'\> \[\/end\] \<\/span\>)/,
+            b: /(\<span translate\=\'no\'\>\[\/end\]\<\/span\>)/,
             c: "[/end]"
         },
         {
-            b: /(\<span class\ =\'notranslate\'\> \[\/right\] \<\/span\>)/,
+            b: /(\<span translate\=\'no\'\>\[\/right\]\<\/span\>)/,
             c: "[/right]"
         },
         {
-            b: /(\<span class\ =\'notranslate\'\> \[\/record\] \<\/span\>)/,
+            b: /(\<span translate\=\'no\'\>\[\/record\]\<\/span\>)/,
             c: "[/record]"
         },
     ]
@@ -149,9 +164,15 @@ const batch_translate_v2 = async (rows) => {
     const proxy = "http://207.2.120.19"
     const agent = new HttpProxyAgent(proxy);
     let new_rows = rows.map(r => process_reserve_word(r.Value))
-    let translated_array = await gtranslate(new_rows, { from, to, agent })
+    // let new_rows = rows.map(r => r.Value)
+    let translated_array = await gtranslate(new_rows, {
+        to, agent, requestOptions: {
+        }
+    })
     const header = ["Key", "Value", "T"]
     let ret = rows.map((r, i) => [r.Key, r.Value, replaceChinesePunctuation(restore_reserve_word(translated_array[i].text))])
+    // let ret = rows.map((r, i) => [r.Key, r.Value, restore_reserve_word(translated_array[i].text)])
+    // let ret = rows.map((r, i) => [r.Key, r.Value, translated_array[i].text])
     ret.unshift(header)
     return ret
 

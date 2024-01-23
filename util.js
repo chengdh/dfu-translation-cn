@@ -1,14 +1,28 @@
-const chinesePunctuation = /[，。；！？【】（）“”‘’]/g;
-const englishPunctuation = [',', '.', ';', '!', '?', '[', ']', '(', ')', '"', '"', "'", "'"];
-
 export function replaceChinesePunctuation(text) {
-  return text.replace(chinesePunctuation, (match) => {
-    return englishPunctuation[chinesePunctuation.source.indexOf(match)];
+  var punctuationMap = {
+    "，": ",",
+    "。": ".",
+    "！": "!",
+    "？": "?",
+    "“": "\"",
+    "”": "\"",
+    "‘": "'",
+    "’": "'",
+    "；": ";",
+    "：": ":",
+    "【": "[",
+    "】": "]",
+    "（": "(",
+    "）": ")"
+  };
+
+  var regex = new RegExp(Object.keys(punctuationMap).join("|"), "g");
+  return text.replace(regex, function(match) {
+    return punctuationMap[match];
   });
 }
 
-// 使用示例
-// const originalText = '这是一段包含中文标点符号的文本，需要替换为英文标点符号。';
-// const replacedText = replaceChinesePunctuation(originalText);
-
-// console.log(replacedText);
+// 示例用法
+// var chineseText = "这是一段中文文本，包含中文标点符号。";
+// var englishText = replaceChinesePunctuation(chineseText);
+// console.log(englishText);

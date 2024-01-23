@@ -3,7 +3,7 @@ Key,Value
 Strength governs encumbrance, weapon damage[/left]
 and the ease of increasing strength-related skills.[/left]
 With your strength of %str, you are considered %ark[/left]
-[/pos:x=20,y=0]%dam [/pos:x=40,y=0]modifier is factored into your[/left]
+<span>[/pos:x=20,y=0]</span>%dam <span>[/pos:x=40,y=0]</span>modifier is factored into your[/left]
 [/pos:x=40,y=0]hand-to-hand / weapon damage.[/left]
 [/pos:x=20,y=0]%enc [/pos:x=40,y=0]kilograms is your maximum encumbrance.[/left]
 [/end]"
